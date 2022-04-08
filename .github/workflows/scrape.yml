@@ -13,6 +13,8 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
+      env:
+        BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
       run: |-
         python retrieve.py
     - name: Commit and push if it changed
