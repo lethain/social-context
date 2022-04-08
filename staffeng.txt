@@ -1,3 +1,29 @@
+author: Wolverine0527
+This is a great resource to level up your career and learn from staff engineers in the industry.
+
+They share their day to day responsibilities. 
+
+Thank @BiancaGando for sharing this resource. 
+
+https://t.co/wtCfY6i2zh
+
+ #womenintech #100devs #BlackTechTwitter #womenwhocode
+
+url: https://staffeng.com/stories/
+https://twitter.com/Wolverine0527/status/1512437906694045697
+---------
+author: kenneth_skovhus
+Another great long read from @Lethain on managing technical quality. "Technical quality is a long-term game. There's no such thing as winning, only learning and earning the chance to keep playing." https://t.co/xaV8mgqpSH
+
+url: https://staffeng.com/guides/manage-technical-quality
+https://twitter.com/kenneth_skovhus/status/1512380788091797506
+---------
+author: riduidel
+Une intéressante taxonomie des différents rôles qu'on peut jouer quand on a un peu d'expérience https://t.co/QSk3pYkFeq
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/riduidel/status/1512318568368680962
+---------
 author: Jairocp
 @_reign0ver hmm bueno yo encontré  una guía de arquetipos acá https://t.co/EERkmYj3WG, pero en general en las empresas que he visto y he leído, estos cargos pertenecen al path de managament, incluso empresas en donde deben  involucrarse en code, los siguen posicionando como management
 
@@ -53,28 +79,3 @@ author: jhscott
 
 url: http://staffeng.com
 https://twitter.com/jhscott/status/1510275069234221060
----------
-author: umachingunde
-@danluu In the archetypes here "tech lead" and "solver" describe staff engineers who do hands-on work. It depends on the organization and I've definitely seen orgs where "no" direct contributions were also seen in a negative light.
-https://t.co/dvSssV0qaV
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/umachingunde/status/1510036135736537089
----------
-author: vnkomv
-@danluu There's that book I've stumbled upon, Staff Engineer by Will Larson
-https://t.co/5aLYQqeQYS. Didn't read it yet but maybe it might help you.
-
-url: https://staffeng.com/book
-https://twitter.com/vnkomv/status/1509994518824853505
----------
-author: GergelyOrosz
-Obligratory to mention @whereistanya doing exactly this and parts of her book already published! Full book coming out later in 2022
-
-https://t.co/ne1Uy8nIQS
-
-And the site / book https://t.co/9A28roN2zu from @Lethain.
-
-url: https://twitter.com/whereistanya/status/1492306209281564674?s=20&t=kp5tK3M0KX1Ll2i9OnwymA
-url: http://staffeng.com
-https://twitter.com/GergelyOrosz/status/1509972514985988099

@@ -1,3 +1,13 @@
+author: warrenmyers
+Should you prioritize #infrastructure costs?
+
+https://t.co/BvYbCQ663V https://t.co/FbOVuH1BLh
+
+url: https://infraeng.dev/efficiency/
+url: https://twitter.com/warrenmyers/status/1512451966525480968/photo/1
+url: https://twitter.com/warrenmyers/status/1512451966525480968/photo/1
+https://twitter.com/warrenmyers/status/1512451966525480968
+---------
 author: nuncapops
 Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t.co/r0GnsBbaOg
 

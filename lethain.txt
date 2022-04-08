@@ -1,3 +1,29 @@
+author: peres
+&gt; They escalate to the appropriate manager to address the issue, but that manager transforms the performance issue into a relationship issue: it’s not that the peer isn’t performing, it’s just that the two of you don’t like each other. 
+
+https://t.co/0HyzYKqT88
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/peres/status/1512443971192172553
+---------
+author: UnbiasedWaldo
+lindo blog https://t.co/UAIAyytKxA
+
+url: https://lethain.com/
+https://twitter.com/UnbiasedWaldo/status/1512344897600294916
+---------
+author: GavLaaaaaaaa
+Staff engineer reflects on overwork and expecting better from peers https://t.co/sMQbmxuR5Y #programming #softwareengineering #bigdata #datascience #analytics #ai #python #javascript
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/GavLaaaaaaaa/status/1512340678709288961
+---------
+author: typesanitizer
+@ktosopl It's interesting that you managed to keep the reading club going for so long. In https://t.co/9MoBXy8dMR, Will Larson writes "Folks will never do their homework", so it's cool to see that you somehow managed to crack that nut.
+
+url: https://lethain.com/rough-notes-learning-circles/
+https://twitter.com/typesanitizer/status/1512316551063506948
+---------
 author: thebaffledengg
 Staff engineer reflects on overwork and expecting better from peers https://t.co/FiebOfkf2k
 
@@ -44,34 +70,3 @@ https://t.co/k4xcgVYwgP
 
 url: https://lethain.com/should-you-prioritize-infrastructure-costs/
 https://twitter.com/mywaypress/status/1511955300416376835
----------
-author: vinta_knowledge
-good arguments as to when prioritize reducing infrastructure costs based on company size  also brings good metrics to track infrastructure burden on bigger companies! #engineering #infra https://t.co/uUqB13bF29
-
-url: https://lethain.com/should-you-prioritize-infrastructure-costs/
-https://twitter.com/vinta_knowledge/status/1511716639250726912
----------
-author: newlocalmedia
-New work blog find — good stuff here: https://t.co/MKL4dvL1zf
-
-url: https://bit.ly/3iSCHa9
-https://twitter.com/newlocalmedia/status/1511399018122944518
----------
-author: webcode
-Hard to work with 👷 https://t.co/ztrEYHlbaC via @lethain
-
-url: https://lethain.com/hard-to-work-with/?utm_source=webcode&utm_medium=twitter
-https://twitter.com/webcode/status/1511376367962800137
----------
-author: keff85
-Ah, so that might have happened.
-
-"they want to hold others to a higher standard than their organization’s management is willing to enforce"
-
-https://t.co/7AikP9X5lG https://t.co/EsiJahZFEl
-
-url: https://lethain.com/hard-to-work-with/
-url: https://twitter.com/keff85/status/1511303460075065344/photo/1
-url: https://twitter.com/keff85/status/1511303460075065344/photo/1
-url: https://twitter.com/keff85/status/1511303460075065344/photo/1
-https://twitter.com/keff85/status/1511303460075065344
