@@ -17,7 +17,7 @@ def query_website(query, max_results=50):
     # minimum max_results is 10 or api rejects...
     if max_results < 10:
         max_results = 10
-    
+
     params = {
         'query': query,
         'expansions': 'author_id',
@@ -60,13 +60,14 @@ def parse_results(results):
         txt += "https://twitter.com/%s/status/%s\n" % (user_lookup[author_id], tweet['id'])
     return txt
 
-    
+
 def main():
     for dest_filename, website in WEBSITES:
         results = query_website(website, max_results=3)
         parsed = parse_results(results)
         with open(dest_filename, 'w') as fout:
             fout.write(parsed)
-    
+
+
 if __name__ == "__main__":
     main()
