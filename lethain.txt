@@ -1,3 +1,15 @@
+author: seclectech
+Damn @Lethain always has the hard truths 😬 https://t.co/ZTXIpH5dgv
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/seclectech/status/1512758473263620097
+---------
+author: woongy
+"By attempting to drive accountability in their peer, the main character has blocked their own progress (“they’re just hard to work with”) without accomplishing anything." https://t.co/l3JFZxj2zE
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/woongy/status/1512601300084871168
+---------
 author: peres
 &gt; They escalate to the appropriate manager to address the issue, but that manager transforms the performance issue into a relationship issue: it’s not that the peer isn’t performing, it’s just that the two of you don’t like each other. 
 
@@ -58,15 +70,3 @@ Staff engineer reflects on overwork and expecting better from peers https://t.co
 url: https://lethain.com/hard-to-work-with/
 url: https://www.reddit.com/r/programming/comments/ty5c7r/staff_engineer_reflects_on_overwork_and_expecting/?utm_source=ifttt
 https://twitter.com/reddit_progr/status/1511965953743020035
----------
-author: mywaypress
-https://t.co/Yl08aZ5s8N
-
-url: https://lethain.com/what-is-innovation/
-https://twitter.com/mywaypress/status/1511955417848504320
----------
-author: mywaypress
-https://t.co/k4xcgVYwgP
-
-url: https://lethain.com/should-you-prioritize-infrastructure-costs/
-https://twitter.com/mywaypress/status/1511955300416376835

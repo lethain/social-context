@@ -1,3 +1,29 @@
+author: DudeWhoCode
+@ponnappa Staff Engineer: https://t.co/ppdpjSQNau
+How to design programs: https://t.co/FnpNbIybgN
+Write great code: https://t.co/l6PezAG9WV
+Think OS:
+https://t.co/GeuLkAwsW8
+
+I am not sure whether everything will help you tho:)
+
+Most of them from your old thread:
+https://t.co/1udNLLkB2i
+
+url: https://staffeng.com/
+url: https://htdp.org/2018-01-06/Book/index.html
+url: https://www.randallhyde.com/WriteGreatCode/index.html
+url: https://github.com/AllenDowney/ThinkOS
+url: https://twitter.com/DudeWhoCode/status/1510833327338848260?s=20&t=Umj4SD6e2ok1lpFneNTIlw
+https://twitter.com/DudeWhoCode/status/1512723807576158208
+---------
+author: NoriSte
+@DavidKPiano In this book there are a lot of great examples of what staff engineers do 😊
+https://t.co/ohX59Fs1In
+
+url: https://staffeng.com/
+https://twitter.com/NoriSte/status/1512537669179514880
+---------
 author: Wolverine0527
 This is a great resource to level up your career and learn from staff engineers in the industry.
 
@@ -63,19 +89,3 @@ url: https://www.goodreads.com/book/show/15824358-the-first-90-days
 url: https://staffeng.com/book
 url: https://www.youtube.com/watch?v=KClAPipnKqw
 https://twitter.com/_comunidadev/status/1511013285235236869
----------
-author: kadoppe
-ある程度成熟した組織だと「コスト小&amp;インパクト大」の仕事はほぼなくなってくる。
-
-なので「コスト大&amp;インパクト大」か「コスト小&amp;インパクト小」のどちらかに仕事の領域をシフトすることになるんだけど、後者の方が達成感をあるのでそっちに流れてしまいがち、という話。
-
-https://t.co/5HWLpOFdHC
-
-url: https://staffeng.com/guides/work-on-what-matters
-https://twitter.com/kadoppe/status/1510617853086810112
----------
-author: jhscott
-@whereistanya @hillernyc @danluu @Lethain ‘s https://t.co/rz4LekDJa4 has a wealth of examples? @mattklein123 might have thoughts?
-
-url: http://staffeng.com
-https://twitter.com/jhscott/status/1510275069234221060
