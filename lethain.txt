@@ -1,3 +1,17 @@
+author: prla
+"Success is finding a path forward among the options that actually exist. Grinding yourself down in frustration about paths not existing doesn’t solve anything." @Lethain 
+
+https://t.co/ulWl6aBFoS
+
+url: https://lethain.com/hard-to-work-with
+https://twitter.com/prla/status/1513169385275465730
+---------
+author: angsuman
+Hard to Work With https://t.co/jW7TIfsOwn
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/angsuman/status/1512962421149036544
+---------
 author: seclectech
 Damn @Lethain always has the hard truths 😬 https://t.co/ZTXIpH5dgv
 
@@ -54,19 +68,3 @@ Discussions: https://t.co/J9xd5nwx7h
 url: https://lethain.com/hard-to-work-with/
 url: https://discu.eu/q/https://lethain.com/hard-to-work-with/
 https://twitter.com/ProgDiscussions/status/1511976787219202050
----------
-author: softwaremars
-#software
-Staff engineer reflects on overwork and expecting better from peers
-https://t.co/jU5pRmZEIF https://t.co/O8sedIvZ1P
-
-url: https://ift.tt/7B3xNlO
-url: https://twitter.com/softwaremars/status/1511970502667026436/photo/1
-https://twitter.com/softwaremars/status/1511970502667026436
----------
-author: reddit_progr
-Staff engineer reflects on overwork and expecting better from peers https://t.co/ax96cz9YTt /post https://t.co/GqAHhc2wVC
-
-url: https://lethain.com/hard-to-work-with/
-url: https://www.reddit.com/r/programming/comments/ty5c7r/staff_engineer_reflects_on_overwork_and_expecting/?utm_source=ifttt
-https://twitter.com/reddit_progr/status/1511965953743020035

@@ -1,3 +1,24 @@
+author: kadoppe
+技術的なビジョンや戦略、設計ドキュメントを書くときのポイントについてまとめられてる。
+
+https://t.co/XYIbSbXUl2
+
+url: https://staffeng.com/guides/engineering-strategy
+https://twitter.com/kadoppe/status/1513105522618433541
+---------
+author: jvuillermet
+The good news is that I'm now staff engineer. The bad one is that it comes with covid 😅
+I can only recommend @Lethain  https://t.co/7XRIeg6Cs3 that helped me a lot understanding the role and taking a decision.
+
+url: https://staffeng.com/
+https://twitter.com/jvuillermet/status/1513100296515465217
+---------
+author: aria_dine
+@michelpereira Acho que Staff Engineer assumiu esse lado arquiteto, só que mais mão na massa https://t.co/65jTlxfPMe
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/aria_dine/status/1512856593171427331
+---------
 author: DudeWhoCode
 @ponnappa Staff Engineer: https://t.co/ppdpjSQNau
 How to design programs: https://t.co/FnpNbIybgN
@@ -61,31 +82,3 @@ author: scott_triglia
 
 url: http://staffeng.com
 https://twitter.com/scott_triglia/status/1511360634826510344
----------
-author: scott_triglia
-Recommend agreeing with your manager on goals and expectations. 
-
-Key strategies:
-- calendar overview 
-- goals and project discussion 
-- join your manager’s regular staff meetings
-- try @Lethain’s https://t.co/glZ36FVB4U archetypes on for size and find yours
-
-url: http://staffeng.com
-https://twitter.com/scott_triglia/status/1511360384963338242
----------
-author: AlexJonesax
-@Infoxicador @NumaanAshraf See also https://t.co/AfMEEzbN2w has great articles.
-
-url: https://staffeng.com/
-https://twitter.com/AlexJonesax/status/1511356124351676418
----------
-author: _comunidadev
-Livro: First 90 Days - Michael Watkins - https://t.co/YiUtuz7fJM
-Livro: Staff Engineer: Leadership beyond the management track - https://t.co/99AFDAThg6
-Palestra: Technical leadership and glue work - Tanya Reilly https://t.co/MPYDLe1Wrr
-
-url: https://www.goodreads.com/book/show/15824358-the-first-90-days
-url: https://staffeng.com/book
-url: https://www.youtube.com/watch?v=KClAPipnKqw
-https://twitter.com/_comunidadev/status/1511013285235236869

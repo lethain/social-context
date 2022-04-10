@@ -1,3 +1,9 @@
+author: dxhuy
+https://t.co/FEwPdHuafc this article captures all problems shared at all companies i worked (works) for, with a simple but yet effective and elegant approach
+
+url: https://infraeng.dev/trunk-and-branches/
+https://twitter.com/dxhuy/status/1513151940183863302
+---------
 author: warrenmyers
 Should you prioritize #infrastructure costs?
 
