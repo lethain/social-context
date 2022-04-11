@@ -1,3 +1,19 @@
+author: Lethain
+Ties in very nicely with the recent InfraEng writeup on managing efficiency, which is very much influenced by the time I spent working with Smruti!
+
+https://t.co/9UBD51L2VM
+
+url: https://infraeng.dev/efficiency/
+https://twitter.com/Lethain/status/1513520522155343882
+---------
+author: Lethain
+Have an interview up from @smrutirp, with a particular focus on efficiency e.g. managing infrastructure costs, but wide ranging across goals and metrics, data platform, decision making, and succeeding in complex organizations.
+
+https://t.co/AXrUmOAOkP
+
+url: https://infraeng.dev/smruti-patel/
+https://twitter.com/Lethain/status/1513520517180915713
+---------
 author: dxhuy
 https://t.co/FEwPdHuafc this article captures all problems shared at all companies i worked (works) for, with a simple but yet effective and elegant approach
 
@@ -33,23 +49,3 @@ https://t.co/1Kmx0N0qqX
 
 url: https://infraeng.dev/efficiency/
 https://twitter.com/mehuls/status/1511129981547532292
----------
-author: pingles
-More great writing and tools from @Lethain https://t.co/XUzWOGIZfH Looks like it's going to be another really great place to learn from!
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/pingles/status/1511014315687653376
----------
-author: cra
-"Efficiency: Managing Infrastructure Costs" #finops https://t.co/uUag45OFsY
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/cra/status/1510850555756826629
----------
-author: Lethain
-Having gone through the "infrastructure costs don't matter" to "infrastructure costs are on fire" to "we know what we're doing and no one is yelling at me anymore" cycle a few times, wrote up what I've learned about managing infrastructure costs
-
-https://t.co/9UBD51L2VM
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/Lethain/status/1510741640553459714

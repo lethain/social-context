@@ -1,3 +1,27 @@
+author: Lethain
+Maybe one day I can find enough of these stories, and folks willing to share them, to publish a book of essays on software project failures.
+
+Reminds me a bit of my experience at Digg: https://t.co/wZXgtam8ae
+
+url: https://lethain.com/digg-v4/
+https://twitter.com/Lethain/status/1513535386538020866
+---------
+author: jennamez
+Working on what matters means focusing on 1) work you are exceptionally good at and 2) problems you genuinely care about. Don't get distracted by the rest. 
+(through @lethain)
+https://t.co/vSg1YcqwwZ
+
+url: https://lethain.com/work-on-what-matters/
+https://twitter.com/jennamez/status/1513499222942826504
+---------
+author: halyph
+How to invest in technical infrastructure.
+
+Just another interesting reading  https://t.co/TBeSViUzqb
+
+url: https://lethain.com/how-to-invest-technical-infrastructure/
+https://twitter.com/halyph/status/1513308083237306369
+---------
 author: prla
 "Success is finding a path forward among the options that actually exist. Grinding yourself down in frustration about paths not existing doesn’t solve anything." @Lethain 
 
@@ -43,28 +67,3 @@ Staff engineer reflects on overwork and expecting better from peers https://t.co
 
 url: https://lethain.com/hard-to-work-with/
 https://twitter.com/GavLaaaaaaaa/status/1512340678709288961
----------
-author: typesanitizer
-@ktosopl It's interesting that you managed to keep the reading club going for so long. In https://t.co/9MoBXy8dMR, Will Larson writes "Folks will never do their homework", so it's cool to see that you somehow managed to crack that nut.
-
-url: https://lethain.com/rough-notes-learning-circles/
-https://twitter.com/typesanitizer/status/1512316551063506948
----------
-author: thebaffledengg
-Staff engineer reflects on overwork and expecting better from peers https://t.co/FiebOfkf2k
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/thebaffledengg/status/1512083389062418432
----------
-author: ProgDiscussions
-Staff engineer reflects on overwork and expecting better from peers
-
-https://t.co/KBPw2xxfcb
-
-Discussions: https://t.co/J9xd5nwx7h
-
-#programming
-
-url: https://lethain.com/hard-to-work-with/
-url: https://discu.eu/q/https://lethain.com/hard-to-work-with/
-https://twitter.com/ProgDiscussions/status/1511976787219202050
