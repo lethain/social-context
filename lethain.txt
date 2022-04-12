@@ -1,3 +1,12 @@
+author: JoeKarlsson1
+tl;dr: The transition between the small to the large infrastructure team can be difficult and unstable, and Will provides us with a playbook on how to execute it.
+
+Via: Trunk and Branches Model for Scaling Infrastructure Organizations - Will Larson https://t.co/6EeB4SZRM2 https://t.co/0155Jbeud3
+
+url: https://buff.ly/3CZ8oIo
+url: https://twitter.com/JoeKarlsson1/status/1513568571795849217/photo/1
+https://twitter.com/JoeKarlsson1/status/1513568571795849217
+---------
 author: Lethain
 Maybe one day I can find enough of these stories, and folks willing to share them, to publish a book of essays on software project failures.
 
@@ -61,9 +70,3 @@ lindo blog https://t.co/UAIAyytKxA
 
 url: https://lethain.com/
 https://twitter.com/UnbiasedWaldo/status/1512344897600294916
----------
-author: GavLaaaaaaaa
-Staff engineer reflects on overwork and expecting better from peers https://t.co/sMQbmxuR5Y #programming #softwareengineering #bigdata #datascience #analytics #ai #python #javascript
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/GavLaaaaaaaa/status/1512340678709288961

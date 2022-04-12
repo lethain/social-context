@@ -1,3 +1,9 @@
+author: djdarkbeat
+@DevinRhode2 https://t.co/m7AqL8Tizz
+
+url: https://staffeng.com/book
+https://twitter.com/djdarkbeat/status/1513613976101265408
+---------
 author: kadoppe
 技術的なビジョンや戦略、設計ドキュメントを書くときのポイントについてまとめられてる。
 
@@ -76,9 +82,3 @@ author: Jairocp
 
 url: https://staffeng.com/guides/staff-archetypes
 https://twitter.com/Jairocp/status/1512242643107037186
----------
-author: scott_triglia
-(Suspect we will have a lot of @Lethain and https://t.co/glZ36FVB4U links today. As it should be! Great to have something to reference and come back to)
-
-url: http://staffeng.com
-https://twitter.com/scott_triglia/status/1511360634826510344

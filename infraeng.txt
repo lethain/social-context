@@ -1,3 +1,25 @@
+author: alexanderchopan
+“ yes, if you can afford to, offering an SDK (or a CLI, by the way) generally provides a better developer experience than just the raw API…” #ux 
+https://t.co/g3Ohr3SCOy https://t.co/pgdEPFe78K
+
+url: https://buff.ly/3v9X609
+url: https://twitter.com/alexanderchopan/status/1513900225978589188/photo/1
+https://twitter.com/alexanderchopan/status/1513900225978589188
+---------
+author: Lethain
+Excited for this interview with @swyx on intersection of developer experience and infrastructure. As you chat with folks working on developer experience, much of what they do with an external focus, good infra teams do internally.
+
+https://t.co/kSHMrnNENa
+
+url: https://infraeng.dev/swyx/
+https://twitter.com/Lethain/status/1513881943418494991
+---------
+author: maroffo
+Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t.co/7a1ini91CB
+
+url: https://buff.ly/3xfCoyB
+https://twitter.com/maroffo/status/1513772657900150784
+---------
 author: Lethain
 Ties in very nicely with the recent InfraEng writeup on managing efficiency, which is very much influenced by the time I spent working with Smruti!
 
@@ -29,23 +51,3 @@ url: https://infraeng.dev/efficiency/
 url: https://twitter.com/warrenmyers/status/1512451966525480968/photo/1
 url: https://twitter.com/warrenmyers/status/1512451966525480968/photo/1
 https://twitter.com/warrenmyers/status/1512451966525480968
----------
-author: nuncapops
-Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t.co/r0GnsBbaOg
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/nuncapops/status/1511364254414381058
----------
-author: pinboard_pop
-Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t.co/FJxCD2OfoI
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/pinboard_pop/status/1511327816167665669
----------
-author: mehuls
-Great article about managing Infrastructure Costs.
-
-https://t.co/1Kmx0N0qqX
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/mehuls/status/1511129981547532292
