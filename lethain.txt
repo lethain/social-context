@@ -1,3 +1,15 @@
+author: mywaypress
+https://t.co/AMXnmaVnYz
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/
+https://twitter.com/mywaypress/status/1514245754625343489
+---------
+author: hasdid
+#TechLead #Dev #Automated | What is innovation? https://t.co/hRizlgw83k
+
+url: https://techleaddigest.net/links/11771/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1513936739483766800
+---------
 author: JoeKarlsson1
 tl;dr: The transition between the small to the large infrastructure team can be difficult and unstable, and Will provides us with a playbook on how to execute it.
 
@@ -56,17 +68,3 @@ author: woongy
 
 url: https://lethain.com/hard-to-work-with/
 https://twitter.com/woongy/status/1512601300084871168
----------
-author: peres
-&gt; They escalate to the appropriate manager to address the issue, but that manager transforms the performance issue into a relationship issue: it’s not that the peer isn’t performing, it’s just that the two of you don’t like each other. 
-
-https://t.co/0HyzYKqT88
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/peres/status/1512443971192172553
----------
-author: UnbiasedWaldo
-lindo blog https://t.co/UAIAyytKxA
-
-url: https://lethain.com/
-https://twitter.com/UnbiasedWaldo/status/1512344897600294916

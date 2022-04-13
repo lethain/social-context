@@ -1,3 +1,10 @@
+author: HermanLangner
+@SKleanthous I mostly agree with your thoughts, and it's something most companies are wrestling with esp with old school arm chair architects still being a stereotype. I recently found https://t.co/wAXcsRCkB6
+And it was very insightful on this topic as well
+
+url: https://staffeng.com/book
+https://twitter.com/HermanLangner/status/1514166065642848256
+---------
 author: djdarkbeat
 @DevinRhode2 https://t.co/m7AqL8Tizz
 
@@ -76,9 +83,3 @@ Une intéressante taxonomie des différents rôles qu'on peut jouer quand on a u
 
 url: https://staffeng.com/guides/staff-archetypes
 https://twitter.com/riduidel/status/1512318568368680962
----------
-author: Jairocp
-@_reign0ver hmm bueno yo encontré  una guía de arquetipos acá https://t.co/EERkmYj3WG, pero en general en las empresas que he visto y he leído, estos cargos pertenecen al path de managament, incluso empresas en donde deben  involucrarse en code, los siguen posicionando como management
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/Jairocp/status/1512242643107037186
