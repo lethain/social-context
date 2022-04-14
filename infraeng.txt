@@ -1,3 +1,10 @@
+author: ghaidar0
+👇 fantastic piece of writing:
+Trunk and Branches Model | Infrastructure Engineering https://t.co/vX48lrTrla
+
+url: https://infraeng.dev/trunk-and-branches/
+https://twitter.com/ghaidar0/status/1514528262332067842
+---------
 author: Lethain
 Final infraeng interview to share this week is actually the very first interview I did for this project, featuring @utsav_sha!
 
