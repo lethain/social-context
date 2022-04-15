@@ -1,3 +1,23 @@
+author: F2aldi
+Visibility can go wrong in more ways than it can go right. The internet is a very public space.
+
+https://t.co/ClT6gM4fkx
+
+url: https://lethain.com/tech-influencer/
+https://twitter.com/F2aldi/status/1514962980932579330
+---------
+author: emmanuel_siegel
+Mailbag: Resources for Engineering Directors. #engineering https://t.co/B5RIow7Unq
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/
+https://twitter.com/emmanuel_siegel/status/1514888255774285827
+---------
+author: vikasgorur
+@jeremyjkun the classic @Lethain on this https://t.co/XavS4IwPDM
+
+url: https://lethain.com/strategies-visions/
+https://twitter.com/vikasgorur/status/1514824253967077376
+---------
 author: haruki_zaemon
 ”Mailbag: Resources for Engineering Directors.“ https://t.co/QwD2EdFXZ2 #Pinboard
 
@@ -46,25 +66,3 @@ https://t.co/vSg1YcqwwZ
 
 url: https://lethain.com/work-on-what-matters/
 https://twitter.com/jennamez/status/1513499222942826504
----------
-author: halyph
-How to invest in technical infrastructure.
-
-Just another interesting reading  https://t.co/TBeSViUzqb
-
-url: https://lethain.com/how-to-invest-technical-infrastructure/
-https://twitter.com/halyph/status/1513308083237306369
----------
-author: prla
-"Success is finding a path forward among the options that actually exist. Grinding yourself down in frustration about paths not existing doesn’t solve anything." @Lethain 
-
-https://t.co/ulWl6aBFoS
-
-url: https://lethain.com/hard-to-work-with
-https://twitter.com/prla/status/1513169385275465730
----------
-author: angsuman
-Hard to Work With https://t.co/jW7TIfsOwn
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/angsuman/status/1512962421149036544

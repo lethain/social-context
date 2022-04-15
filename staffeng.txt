@@ -1,3 +1,9 @@
+author: Root3d
+» What do Staff engineers actually do? | StaffEng https://t.co/C1N9kkJpb6
+
+url: https://staffeng.com/guides/what-do-staff-engineers-actually-do
+https://twitter.com/Root3d/status/1514900402398969856
+---------
 author: HermanLangner
 @SKleanthous I mostly agree with your thoughts, and it's something most companies are wrestling with esp with old school arm chair architects still being a stereotype. I recently found https://t.co/wAXcsRCkB6
 And it was very insightful on this topic as well
@@ -57,29 +63,3 @@ https://t.co/ohX59Fs1In
 
 url: https://staffeng.com/
 https://twitter.com/NoriSte/status/1512537669179514880
----------
-author: Wolverine0527
-This is a great resource to level up your career and learn from staff engineers in the industry.
-
-They share their day to day responsibilities. 
-
-Thank @BiancaGando for sharing this resource. 
-
-https://t.co/wtCfY6i2zh
-
- #womenintech #100devs #BlackTechTwitter #womenwhocode
-
-url: https://staffeng.com/stories/
-https://twitter.com/Wolverine0527/status/1512437906694045697
----------
-author: kenneth_skovhus
-Another great long read from @Lethain on managing technical quality. "Technical quality is a long-term game. There's no such thing as winning, only learning and earning the chance to keep playing." https://t.co/xaV8mgqpSH
-
-url: https://staffeng.com/guides/manage-technical-quality
-https://twitter.com/kenneth_skovhus/status/1512380788091797506
----------
-author: riduidel
-Une intéressante taxonomie des différents rôles qu'on peut jouer quand on a un peu d'expérience https://t.co/QSk3pYkFeq
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/riduidel/status/1512318568368680962
