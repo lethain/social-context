@@ -37,29 +37,3 @@ author: aria_dine
 
 url: https://staffeng.com/guides/staff-archetypes
 https://twitter.com/aria_dine/status/1512856593171427331
----------
-author: DudeWhoCode
-@ponnappa Staff Engineer: https://t.co/ppdpjSQNau
-How to design programs: https://t.co/FnpNbIybgN
-Write great code: https://t.co/l6PezAG9WV
-Think OS:
-https://t.co/GeuLkAwsW8
-
-I am not sure whether everything will help you tho:)
-
-Most of them from your old thread:
-https://t.co/1udNLLkB2i
-
-url: https://staffeng.com/
-url: https://htdp.org/2018-01-06/Book/index.html
-url: https://www.randallhyde.com/WriteGreatCode/index.html
-url: https://github.com/AllenDowney/ThinkOS
-url: https://twitter.com/DudeWhoCode/status/1510833327338848260?s=20&t=Umj4SD6e2ok1lpFneNTIlw
-https://twitter.com/DudeWhoCode/status/1512723807576158208
----------
-author: NoriSte
-@DavidKPiano In this book there are a lot of great examples of what staff engineers do 😊
-https://t.co/ohX59Fs1In
-
-url: https://staffeng.com/
-https://twitter.com/NoriSte/status/1512537669179514880
