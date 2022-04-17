@@ -1,3 +1,15 @@
+author: haruki_zaemon
+”Stripe's model of product-led, developer-centric growth.“ https://t.co/KzgpHihLev #Pinboard
+
+url: https://lethain.com/stripe-product-led-developer-centric-growth/
+https://twitter.com/haruki_zaemon/status/1515524970448830465
+---------
+author: ricveal
+How to safely think in systems. https://t.co/fbxyi3zKt0
+
+url: https://lethain.com/how-to-safely-think-in-systems/
+https://twitter.com/ricveal/status/1515389812219551746
+---------
 author: F2aldi
 Visibility can go wrong in more ways than it can go right. The internet is a very public space.
 
@@ -50,19 +62,3 @@ Via: Trunk and Branches Model for Scaling Infrastructure Organizations - Will La
 url: https://buff.ly/3CZ8oIo
 url: https://twitter.com/JoeKarlsson1/status/1513568571795849217/photo/1
 https://twitter.com/JoeKarlsson1/status/1513568571795849217
----------
-author: Lethain
-Maybe one day I can find enough of these stories, and folks willing to share them, to publish a book of essays on software project failures.
-
-Reminds me a bit of my experience at Digg: https://t.co/wZXgtam8ae
-
-url: https://lethain.com/digg-v4/
-https://twitter.com/Lethain/status/1513535386538020866
----------
-author: jennamez
-Working on what matters means focusing on 1) work you are exceptionally good at and 2) problems you genuinely care about. Don't get distracted by the rest. 
-(through @lethain)
-https://t.co/vSg1YcqwwZ
-
-url: https://lethain.com/work-on-what-matters/
-https://twitter.com/jennamez/status/1513499222942826504

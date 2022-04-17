@@ -1,3 +1,9 @@
+author: NorthernLitez83
+Excellent blog https://t.co/4288vBAlyC
+
+url: https://staffeng.com/guides/
+https://twitter.com/NorthernLitez83/status/1515680787991244802
+---------
 author: Root3d
 » What do Staff engineers actually do? | StaffEng https://t.co/C1N9kkJpb6
 
@@ -16,24 +22,3 @@ author: djdarkbeat
 
 url: https://staffeng.com/book
 https://twitter.com/djdarkbeat/status/1513613976101265408
----------
-author: kadoppe
-技術的なビジョンや戦略、設計ドキュメントを書くときのポイントについてまとめられてる。
-
-https://t.co/XYIbSbXUl2
-
-url: https://staffeng.com/guides/engineering-strategy
-https://twitter.com/kadoppe/status/1513105522618433541
----------
-author: jvuillermet
-The good news is that I'm now staff engineer. The bad one is that it comes with covid 😅
-I can only recommend @Lethain  https://t.co/7XRIeg6Cs3 that helped me a lot understanding the role and taking a decision.
-
-url: https://staffeng.com/
-https://twitter.com/jvuillermet/status/1513100296515465217
----------
-author: aria_dine
-@michelpereira Acho que Staff Engineer assumiu esse lado arquiteto, só que mais mão na massa https://t.co/65jTlxfPMe
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/aria_dine/status/1512856593171427331
