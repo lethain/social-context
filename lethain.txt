@@ -1,3 +1,12 @@
+author: prxtl
+The ground reality of fast growing startups (especially in the early days) is no different _anywhere_ in the world.
+
+(via https://t.co/QvH8kdIkzl) https://t.co/SAAAR8BKeU
+
+url: https://lethain.com/trunk-and-branches/
+url: https://twitter.com/prxtl/status/1515899276727296000/photo/1
+https://twitter.com/prxtl/status/1515899276727296000
+---------
 author: haruki_zaemon
 ”Stripe's model of product-led, developer-centric growth.“ https://t.co/KzgpHihLev #Pinboard
 
@@ -53,12 +62,3 @@ author: hasdid
 
 url: https://techleaddigest.net/links/11771/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
 https://twitter.com/hasdid/status/1513936739483766800
----------
-author: JoeKarlsson1
-tl;dr: The transition between the small to the large infrastructure team can be difficult and unstable, and Will provides us with a playbook on how to execute it.
-
-Via: Trunk and Branches Model for Scaling Infrastructure Organizations - Will Larson https://t.co/6EeB4SZRM2 https://t.co/0155Jbeud3
-
-url: https://buff.ly/3CZ8oIo
-url: https://twitter.com/JoeKarlsson1/status/1513568571795849217/photo/1
-https://twitter.com/JoeKarlsson1/status/1513568571795849217

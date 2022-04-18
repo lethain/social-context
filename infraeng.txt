@@ -49,19 +49,3 @@ Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t
 
 url: https://buff.ly/3xfCoyB
 https://twitter.com/maroffo/status/1513772657900150784
----------
-author: Lethain
-Ties in very nicely with the recent InfraEng writeup on managing efficiency, which is very much influenced by the time I spent working with Smruti!
-
-https://t.co/9UBD51L2VM
-
-url: https://infraeng.dev/efficiency/
-https://twitter.com/Lethain/status/1513520522155343882
----------
-author: Lethain
-Have an interview up from @smrutirp, with a particular focus on efficiency e.g. managing infrastructure costs, but wide ranging across goals and metrics, data platform, decision making, and succeeding in complex organizations.
-
-https://t.co/AXrUmOAOkP
-
-url: https://infraeng.dev/smruti-patel/
-https://twitter.com/Lethain/status/1513520517180915713
