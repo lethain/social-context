@@ -27,25 +27,3 @@ I appreciate the depth, candor, and deliberation about Developer Experience (DX)
 
 url: https://infraeng.dev/swyx/
 https://twitter.com/beccaodelay/status/1513942466726146053
----------
-author: alexanderchopan
-“ yes, if you can afford to, offering an SDK (or a CLI, by the way) generally provides a better developer experience than just the raw API…” #ux 
-https://t.co/g3Ohr3SCOy https://t.co/pgdEPFe78K
-
-url: https://buff.ly/3v9X609
-url: https://twitter.com/alexanderchopan/status/1513900225978589188/photo/1
-https://twitter.com/alexanderchopan/status/1513900225978589188
----------
-author: Lethain
-Excited for this interview with @swyx on intersection of developer experience and infrastructure. As you chat with folks working on developer experience, much of what they do with an external focus, good infra teams do internally.
-
-https://t.co/kSHMrnNENa
-
-url: https://infraeng.dev/swyx/
-https://twitter.com/Lethain/status/1513881943418494991
----------
-author: maroffo
-Efficiency: Managing Infrastructure Costs | Infrastructure Engineering https://t.co/7a1ini91CB
-
-url: https://buff.ly/3xfCoyB
-https://twitter.com/maroffo/status/1513772657900150784
