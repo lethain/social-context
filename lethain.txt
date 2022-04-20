@@ -1,3 +1,16 @@
+author: alexanderchopan
+“Strategically, having a clear strategic rationale for investing in the startup segment even after the enterprise segment started to gain traction.” #Web3 #ux 
+https://t.co/9uoydcC9Aq
+
+url: https://buff.ly/3v1cZYc
+https://twitter.com/alexanderchopan/status/1516782383768428553
+---------
+author: hasdid
+#TechLead #Dev #Automated | Should you prioritize infrastructure costs? https://t.co/OiV84VLzmy
+
+url: https://techleaddigest.net/links/11772/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1516488566972506113
+---------
 author: ParticularSW
 There are two innovation strategies: optimize what you know, or explore around you (via @Lethain) https://t.co/BJp3JPNuGy https://t.co/IeKzBZu6CH
 
@@ -51,15 +64,3 @@ author: haruki_zaemon
 
 url: https://lethain.com/mail-bag-resources-for-engineering-directors/
 https://twitter.com/haruki_zaemon/status/1514560687397384201
----------
-author: cgervais
-If you’re an Engineering Director/Manager and looking to read up on how to engage from higher up in the management stack, @Lethain’s latest list is a great place to start https://t.co/HlaUpPOoQw
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/
-https://twitter.com/cgervais/status/1514349861629579266
----------
-author: mywaypress
-https://t.co/AMXnmaVnYz
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/
-https://twitter.com/mywaypress/status/1514245754625343489

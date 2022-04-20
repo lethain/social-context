@@ -15,10 +15,3 @@ author: Root3d
 
 url: https://staffeng.com/guides/what-do-staff-engineers-actually-do
 https://twitter.com/Root3d/status/1514900402398969856
----------
-author: HermanLangner
-@SKleanthous I mostly agree with your thoughts, and it's something most companies are wrestling with esp with old school arm chair architects still being a stereotype. I recently found https://t.co/wAXcsRCkB6
-And it was very insightful on this topic as well
-
-url: https://staffeng.com/book
-https://twitter.com/HermanLangner/status/1514166065642848256

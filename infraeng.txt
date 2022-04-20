@@ -1,3 +1,15 @@
+author: CommonRoomHQ
+“Users come for the content, and stay for the Community.”
+
+A great dev experience raises the bar for products, teams &amp; communities. @swyx, Head of DX at @temporalio, shared his approach w/@Lethain: 
+
+
+API design &gt; Docs &gt; Content &gt; Community
+ https://t.co/jRUFqSFFFz
+
+url: https://infraeng.dev/swyx/
+https://twitter.com/CommonRoomHQ/status/1516496229277995010
+---------
 author: kiyanwang
 “I think most Infra Engineers could do with more developer empathy, which in most situations simply means putting themselves in the shoes of people with less context and knowledge than them and proactively helping them out by any means necessary”
 #DevOps https://t.co/coQSA7BU1d
@@ -11,19 +23,3 @@ Trunk and Branches Model | Infrastructure Engineering https://t.co/vX48lrTrla
 
 url: https://infraeng.dev/trunk-and-branches/
 https://twitter.com/ghaidar0/status/1514528262332067842
----------
-author: Lethain
-Final infraeng interview to share this week is actually the very first interview I did for this project, featuring @utsav_sha!
-
-https://t.co/Eg3M9qVMHO
-
-url: https://infraeng.dev/utsav-shah/
-https://twitter.com/Lethain/status/1514245988516458499
----------
-author: beccaodelay
-Such a meaty interview with @swyx by @Lethain: https://t.co/aiZSd8Op48
-
-I appreciate the depth, candor, and deliberation about Developer Experience (DX) present throughout this entire piece. Thank you both!
-
-url: https://infraeng.dev/swyx/
-https://twitter.com/beccaodelay/status/1513942466726146053
