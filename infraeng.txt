@@ -1,3 +1,9 @@
+author: dionbeetson
+Trunk and Branches Model https://t.co/fFmYqlStVg
+
+url: https://buff.ly/3KZrEIF
+https://twitter.com/dionbeetson/status/1516899664041234432
+---------
 author: CommonRoomHQ
 “Users come for the content, and stay for the Community.”
 
@@ -16,10 +22,3 @@ author: kiyanwang
 
 url: https://infraeng.dev/swyx/
 https://twitter.com/kiyanwang/status/1515228930063712267
----------
-author: ghaidar0
-👇 fantastic piece of writing:
-Trunk and Branches Model | Infrastructure Engineering https://t.co/vX48lrTrla
-
-url: https://infraeng.dev/trunk-and-branches/
-https://twitter.com/ghaidar0/status/1514528262332067842

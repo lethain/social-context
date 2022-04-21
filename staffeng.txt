@@ -1,3 +1,20 @@
+author: kabukawa
+StaffEng
+https://t.co/HDj1AVpGd8
+
+url: https://staffeng.com/
+https://twitter.com/kabukawa/status/1517151443840815104
+---------
+author: celeste_horgan
+The issue with glue work is who gets rewarded and who gets sidelined.
+
+When male engineers get told their writing is good, it's a leadership quality. For example, it's well understood that Staff+ engineers write a *lot*.
+
+https://t.co/pOAlti4eFl
+
+url: https://staffeng.com/guides/engineering-strategy
+https://twitter.com/celeste_horgan/status/1516931939386761217
+---------
 author: davidfowl
 This is a great post about Staff archetypes. What types of roles do high level ICs have https://t.co/4LKnTsimth. I find myself being a mix of these
 
