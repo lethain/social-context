@@ -1,3 +1,24 @@
+author: lxztlr
+Mailbag: Resources for Engineering Directors https://t.co/4RFRefr1An
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/
+https://twitter.com/lxztlr/status/1517505004525006849
+---------
+author: cssradar
+What is innovation? https://t.co/mRsDg7AncV
+
+url: https://buff.ly/3xsbdRq
+https://twitter.com/cssradar/status/1517437305652678656
+---------
+author: DearDeerDee
+- https://t.co/TJMwI6jr8o
+- https://t.co/QfGHZ3K80o https://t.co/Vf9kVe5OCJ
+
+url: https://lethain.com/tech-lead-managers/
+url: https://lucianohgo.com/posts/the-lure-of-the-tech-lead-manager-and-why-you-should-avoid-it
+url: https://twitter.com/DearDeerDee/status/1517405333731217410
+https://twitter.com/DearDeerDee/status/1517405467508576258
+---------
 author: alexanderchopan
 “Strategically, having a clear strategic rationale for investing in the startup segment even after the enterprise segment started to gain traction.” #Web3 #ux 
 https://t.co/9uoydcC9Aq
@@ -38,23 +59,3 @@ How to safely think in systems. https://t.co/fbxyi3zKt0
 
 url: https://lethain.com/how-to-safely-think-in-systems/
 https://twitter.com/ricveal/status/1515389812219551746
----------
-author: F2aldi
-Visibility can go wrong in more ways than it can go right. The internet is a very public space.
-
-https://t.co/ClT6gM4fkx
-
-url: https://lethain.com/tech-influencer/
-https://twitter.com/F2aldi/status/1514962980932579330
----------
-author: emmanuel_siegel
-Mailbag: Resources for Engineering Directors. #engineering https://t.co/B5RIow7Unq
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/
-https://twitter.com/emmanuel_siegel/status/1514888255774285827
----------
-author: vikasgorur
-@jeremyjkun the classic @Lethain on this https://t.co/XavS4IwPDM
-
-url: https://lethain.com/strategies-visions/
-https://twitter.com/vikasgorur/status/1514824253967077376
