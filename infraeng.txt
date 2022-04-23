@@ -23,10 +23,3 @@ API design &gt; Docs &gt; Content &gt; Community
 
 url: https://infraeng.dev/swyx/
 https://twitter.com/CommonRoomHQ/status/1516496229277995010
----------
-author: kiyanwang
-“I think most Infra Engineers could do with more developer empathy, which in most situations simply means putting themselves in the shoes of people with less context and knowledge than them and proactively helping them out by any means necessary”
-#DevOps https://t.co/coQSA7BU1d
-
-url: https://infraeng.dev/swyx/
-https://twitter.com/kiyanwang/status/1515228930063712267

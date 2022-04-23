@@ -1,3 +1,16 @@
+author: kingy_la
+https://t.co/90NckhydSo
+
+url: https://lethain.com/durably-excellent-teams/
+https://twitter.com/kingy_la/status/1517898666555678724
+---------
+author: givemelines
+“be suspicious of your instincts for the first month or two in your new role. Your instincts are a model trained on old information, and you need to collect new data to retrain on before you can trust their outputs”
+https://t.co/n7RGDY2nRC
+
+url: https://lethain.com/showing-value/
+https://twitter.com/givemelines/status/1517810167869435904
+---------
 author: lxztlr
 Mailbag: Resources for Engineering Directors https://t.co/4RFRefr1An
 
@@ -53,9 +66,3 @@ author: haruki_zaemon
 
 url: https://lethain.com/stripe-product-led-developer-centric-growth/
 https://twitter.com/haruki_zaemon/status/1515524970448830465
----------
-author: ricveal
-How to safely think in systems. https://t.co/fbxyi3zKt0
-
-url: https://lethain.com/how-to-safely-think-in-systems/
-https://twitter.com/ricveal/status/1515389812219551746
