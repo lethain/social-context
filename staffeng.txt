@@ -1,3 +1,9 @@
+author: kviglucci
+@RwoltX https://t.co/uIPcgygpVM
+
+url: https://podcast.staffeng.com/
+https://twitter.com/kviglucci/status/1517918788313923586
+---------
 author: m_e_i_s
 Staff Engineer: Leadership beyond the management track
 
@@ -52,9 +58,3 @@ This is a great post about Staff archetypes. What types of roles do high level I
 
 url: https://staffeng.com/guides/staff-archetypes
 https://twitter.com/davidfowl/status/1515757892770574339
----------
-author: NorthernLitez83
-Excellent blog https://t.co/4288vBAlyC
-
-url: https://staffeng.com/guides/
-https://twitter.com/NorthernLitez83/status/1515680787991244802
