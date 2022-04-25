@@ -1,3 +1,23 @@
+author: marekq
+@MarcOverIP Do you see differences between the "demands" of different kinds of customers? 
+
+I'm reminder of this article about Stripe and the horrors of selling stuff to enterprises. Could be very different for OST, but I wonder. https://t.co/eSuNRkYfex
+
+url: https://lethain.com/stripe-product-led-developer-centric-growth/
+https://twitter.com/marekq/status/1518555500459311104
+---------
+author: govoren_efekt
+How to safely think in systems. via Instapaper https://t.co/E1k8QnyLjR #pkm #readlater
+
+url: https://ift.tt/nxoOXrA
+https://twitter.com/govoren_efekt/status/1518276444106993664
+---------
+author: govoren_efekt
+Mailbag: Resources for Engineering Directors. via Instapaper https://t.co/3iw47onx6G #pkm #readlater
+
+url: https://ift.tt/kZJSKpv
+https://twitter.com/govoren_efekt/status/1518274451703484416
+---------
 author: jayholler
 https://t.co/x1pazCY9Wn
 
@@ -46,23 +66,3 @@ url: https://lethain.com/tech-lead-managers/
 url: https://lucianohgo.com/posts/the-lure-of-the-tech-lead-manager-and-why-you-should-avoid-it
 url: https://twitter.com/DearDeerDee/status/1517405333731217410
 https://twitter.com/DearDeerDee/status/1517405467508576258
----------
-author: alexanderchopan
-“Strategically, having a clear strategic rationale for investing in the startup segment even after the enterprise segment started to gain traction.” #Web3 #ux 
-https://t.co/9uoydcC9Aq
-
-url: https://buff.ly/3v1cZYc
-https://twitter.com/alexanderchopan/status/1516782383768428553
----------
-author: hasdid
-#TechLead #Dev #Automated | Should you prioritize infrastructure costs? https://t.co/OiV84VLzmy
-
-url: https://techleaddigest.net/links/11772/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
-https://twitter.com/hasdid/status/1516488566972506113
----------
-author: ParticularSW
-There are two innovation strategies: optimize what you know, or explore around you (via @Lethain) https://t.co/BJp3JPNuGy https://t.co/IeKzBZu6CH
-
-url: https://buff.ly/38NTZn3
-url: https://twitter.com/ParticularSW/status/1516251000163684355/photo/1
-https://twitter.com/ParticularSW/status/1516251000163684355

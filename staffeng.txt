@@ -52,9 +52,3 @@ https://t.co/pOAlti4eFl
 
 url: https://staffeng.com/guides/engineering-strategy
 https://twitter.com/celeste_horgan/status/1516931939386761217
----------
-author: davidfowl
-This is a great post about Staff archetypes. What types of roles do high level ICs have https://t.co/4LKnTsimth. I find myself being a mix of these
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/davidfowl/status/1515757892770574339
