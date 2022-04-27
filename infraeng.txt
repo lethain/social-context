@@ -17,15 +17,3 @@ Trunk and Branches Model https://t.co/fFmYqlStVg
 
 url: https://buff.ly/3KZrEIF
 https://twitter.com/dionbeetson/status/1516899664041234432
----------
-author: CommonRoomHQ
-“Users come for the content, and stay for the Community.”
-
-A great dev experience raises the bar for products, teams &amp; communities. @swyx, Head of DX at @temporalio, shared his approach w/@Lethain: 
-
-
-API design &gt; Docs &gt; Content &gt; Community
- https://t.co/jRUFqSFFFz
-
-url: https://infraeng.dev/swyx/
-https://twitter.com/CommonRoomHQ/status/1516496229277995010
