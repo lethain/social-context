@@ -1,3 +1,25 @@
+author: ceejbot
+Thanks to @lawnsea I am looking at https://t.co/1CDsXOOi3g and finding myself described there. I have been playing the Right Hand role _most_ over the last three years, with digressions into Architect and Solver.
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/ceejbot/status/1519403303284576257
+---------
+author: lawnsea
+@ceejbot "glue work" is the industry term of art for what i do instead of writing code most of the time.
+
+the staff eng book archetypes are somewhat helpful, tho i think v senior folks like u often mix all of them: https://t.co/TP3zeX08TV
+
+i like to say i help folks write the right code
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/lawnsea/status/1519390889004584961
+---------
+author: ar2pi
+Not all that is high-visibility necessarily adds any value, take time to focus on what you think matters to have a lasting impact.. so relatable https://t.co/EoblInkPE5
+
+url: https://staffeng.com/guides/work-on-what-matters
+https://twitter.com/ar2pi/status/1519385974035435520
+---------
 author: kviglucci
 @RwoltX https://t.co/uIPcgygpVM
 
@@ -35,20 +57,3 @@ To save you a search: https://t.co/hOVzAwleMc
 
 url: https://staffeng.com/book
 https://twitter.com/chrisbanes/status/1517760773828849664
----------
-author: kabukawa
-StaffEng
-https://t.co/HDj1AVpGd8
-
-url: https://staffeng.com/
-https://twitter.com/kabukawa/status/1517151443840815104
----------
-author: celeste_horgan
-The issue with glue work is who gets rewarded and who gets sidelined.
-
-When male engineers get told their writing is good, it's a leadership quality. For example, it's well understood that Staff+ engineers write a *lot*.
-
-https://t.co/pOAlti4eFl
-
-url: https://staffeng.com/guides/engineering-strategy
-https://twitter.com/celeste_horgan/status/1516931939386761217

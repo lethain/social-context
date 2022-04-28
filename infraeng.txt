@@ -11,9 +11,3 @@ https://t.co/lltwjQwCf6
 
 url: https://infraeng.dev/process-checklist/
 https://twitter.com/matiasburni/status/1517451797014761473
----------
-author: dionbeetson
-Trunk and Branches Model https://t.co/fFmYqlStVg
-
-url: https://buff.ly/3KZrEIF
-https://twitter.com/dionbeetson/status/1516899664041234432
