@@ -1,3 +1,13 @@
+author: emgosr
+It's not easy for top ICs (staff eng, architects, etc.) who have reached the highest roles in their org to stay engaged.
+
+This article by @Lethain is useful to start the conversation for coaching such ICs into shaping their next move:
+
+https://t.co/uBtnY9ykoy
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/emgosr/status/1519722610996629505
+---------
 author: ceejbot
 Thanks to @lawnsea I am looking at https://t.co/1CDsXOOi3g and finding myself described there. I have been playing the Right Hand role _most_ over the last three years, with digressions into Architect and Solver.
 

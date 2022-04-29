@@ -1,13 +1,34 @@
+author: kyo_nanba
+面白かった。
+
+Trunk and Branches Model | Infrastructure Engineering https://t.co/6hqpDmD9E4
+
+url: https://infraeng.dev/trunk-and-branches/
+https://twitter.com/kyo_nanba/status/1519903265604857856
+---------
+author: tamamushi_2
+https://t.co/Obn77c4qjb
+
+url: https://infraeng.dev/trunk-and-branches/
+https://twitter.com/tamamushi_2/status/1519898465106497536
+---------
+author: Kengo_TODA
+Similar to the pulse survey I held before, but uses different theme and approach. Very interesting.
+https://t.co/VhTIeo78rd
+
+url: https://infraeng.dev/developer-survey/
+https://twitter.com/Kengo_TODA/status/1519870382064300032
+---------
+author: 0xc4tm
+@JavierDeArcosTL "I had learned from past experience that accountability without authority was a kitchen sink at best and a dull knife at its worst."
+
+-- https://t.co/t4x4mq7ftA
+
+url: https://infraeng.dev/smruti-patel/
+https://twitter.com/0xc4tm/status/1519771391687544835
+---------
 author: eminetto
 https://t.co/ui0CCdjRW4
 
 url: https://buff.ly/3EPHy6d
 https://twitter.com/eminetto/status/1518945324932468737
----------
-author: matiasburni
-Practices &amp; Process Checklist:
-"how well your existing practices are working and which practices you might want to introduce next"
-https://t.co/lltwjQwCf6
-
-url: https://infraeng.dev/process-checklist/
-https://twitter.com/matiasburni/status/1517451797014761473
