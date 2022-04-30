@@ -1,3 +1,9 @@
+author: antculver
+@JennyMaMTL It varies a lot by role, company, org, etc. but for a general sense of what it means to be a staff engineer I think https://t.co/SFWE93a5Vd is a great place to start
+
+url: http://staffeng.com
+https://twitter.com/antculver/status/1520119995271098368
+---------
 author: emgosr
 It's not easy for top ICs (staff eng, architects, etc.) who have reached the highest roles in their org to stay engaged.
 
@@ -35,35 +41,3 @@ author: kviglucci
 
 url: https://podcast.staffeng.com/
 https://twitter.com/kviglucci/status/1517918788313923586
----------
-author: m_e_i_s
-Staff Engineer: Leadership beyond the management track
-
-Will Larson (@Lethain)
-
-https://t.co/lWvA0ZsIas
-
-https://t.co/hs09LFps6p
-
-url: https://www.goodreads.com/book/show/56481725-staff-engineer
-url: https://staffeng.com/book
-https://twitter.com/m_e_i_s/status/1517848288724201472
----------
-author: omuomugin
-see also https://t.co/p9818beUXY や https://t.co/MxZ9aTprbK
-
-url: https://staffeng.com/book
-url: https://medium.com/volvo-cars-engineering/6-ways-staff-engineers-help-reach-clarity-963c1878accb
-https://twitter.com/omuomugin/status/1517820751549673472
----------
-author: pshchahelski
-@chrisbanes The half of the book contains interviews with different staff engineers from different companies where they describe their career path, how they became staff engineers. Those interviews can be found on @Lethain  public web site https://t.co/fNYKysIGQZ.
-
-url: https://staffeng.com/
-https://twitter.com/pshchahelski/status/1517762508010004480
----------
-author: chrisbanes
-To save you a search: https://t.co/hOVzAwleMc
-
-url: https://staffeng.com/book
-https://twitter.com/chrisbanes/status/1517760773828849664
