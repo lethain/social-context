@@ -1,71 +1,68 @@
+author: nuncapops
+Founding Uber SRE https://t.co/GR9Kc6wujx
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/nuncapops/status/1520786241498882048
+---------
+author: anthonydelage
+Great read on the challenges of scaling engineering organizations by @Lethain 
+https://t.co/LxWuMhsZNI
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/anthonydelage/status/1520783541105135617
+---------
+author: OneRightGuy
+https://t.co/j8wJP2Incl https://t.co/d9ffwUUnCj
+
+url: https://lnkd.in/gTvUNuva
+url: https://lnkd.in/gNZmfe82
+https://twitter.com/OneRightGuy/status/1520755354203656192
+---------
+author: pinboard_pop
+Founding Uber SRE. | Irrational Exuberance https://t.co/A7BWSSXjyc
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/pinboard_pop/status/1520749908768272385
+---------
+author: fakebaldur
+“Hard to work with. - Irrational Exuberance”
+
+Not entirely sure I know what to think about this. Some of it feels familiar though. https://t.co/tG6yKkI3tT
+
+url: https://lethain.com/hard-to-work-with/?utm_source=labnotes.org
+https://twitter.com/fakebaldur/status/1520724450525782016
+---------
+author: icymihn
+Founding Uber SRE https://t.co/VZxvpfEjq4 comm: https://t.co/3ByzMluAvF
+
+url: https://bit.ly/3s5kPhn
+url: https://bit.ly/3vY7PuX
+https://twitter.com/icymihn/status/1520619027990814721
+---------
+author: woojae
+https://t.co/lO8gwCsMob
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/woojae/status/1520592806871322624
+---------
+author: adam_dingman
+Such a fascinating read about the early SRE days at Uber. https://t.co/dSnpjXoL6t
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/adam_dingman/status/1520536547644301314
+---------
+author: senolcolaks
+How did SRE evolved within Uber?
+
+Nice to see the challenges and the decisions..
+
+https://t.co/SLkyPqr67E
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/senolcolaks/status/1520448712815919104
+---------
 author: mr_o_v_e_n
 Founding Uber SRE #SRE #Infrastructureorganization #Woody https://t.co/43OFQebdSr
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/mr_o_v_e_n/status/1520443954365407232
----------
-author: darksideofcode
-Founding Uber SRE https://t.co/5gouIxxDdz
-
-url: https://ift.tt/EvIlbq2
-https://twitter.com/darksideofcode/status/1520434366354178048
----------
-author: newsyc200
-Founding Uber SRE https://t.co/D65nuxcn2i (https://t.co/D8XSGTrl4p)
-
-url: https://lethain.com/founding-uber-sre/
-url: http://news.ycombinator.com/item?id=31199551
-https://twitter.com/newsyc200/status/1520429924162715654
----------
-author: HighSNHN
-Founding Uber SRE: https://t.co/lZUw3OVnfn ( https://t.co/NeZ13oor0r )
-
-url: https://lethain.com/founding-uber-sre/
-url: https://news.ycombinator.com/item?id=31199551
-https://twitter.com/HighSNHN/status/1520395150161235968
----------
-author: lxztlr
-Own your content 
-
-https://t.co/FjzCM8Npal https://t.co/YT0vobU4ty
-
-url: https://lethain.com/platforms-change-but-cool-uris-dont/
-url: https://twitter.com/lxztlr/status/1520370413397848069/photo/1
-https://twitter.com/lxztlr/status/1520370413397848069
----------
-author: KatAlexPas
-This is a great articulation of something I've struggled with in previous roles.
-
-Wanting to hold peers to a higher standard than the organisation is willing to enforce. Mgmt then reframes as a relationship issue, and don't address it. 
-
-https://t.co/S2smtL834Y
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/KatAlexPas/status/1520364836600823808
----------
-author: newsyc150
-Founding Uber SRE https://t.co/rRpgj0sLaG (https://t.co/kUv4cySnHD)
-
-url: https://lethain.com/founding-uber-sre/
-url: https://bit.ly/3KpvSsd
-https://twitter.com/newsyc150/status/1520359413130969094
----------
-author: newsyc100
-Founding Uber SRE https://t.co/rZ4HOWkCas (https://t.co/H3vVzz6vqd)
-
-url: https://lethain.com/founding-uber-sre/
-url: https://bit.ly/3KpvSsd
-https://twitter.com/newsyc100/status/1520359166765850624
----------
-author: photographed
-Uber SRE立ち上げ回想記。
- https://t.co/MX4nm4gsMh
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/photographed/status/1520358575436034048
----------
-author: exaday
-Founding Uber SRE https://t.co/o4ZSG7Y8QF
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/exaday/status/1520356161450647553

@@ -35,9 +35,3 @@ Not all that is high-visibility necessarily adds any value, take time to focus o
 
 url: https://staffeng.com/guides/work-on-what-matters
 https://twitter.com/ar2pi/status/1519385974035435520
----------
-author: kviglucci
-@RwoltX https://t.co/uIPcgygpVM
-
-url: https://podcast.staffeng.com/
-https://twitter.com/kviglucci/status/1517918788313923586
