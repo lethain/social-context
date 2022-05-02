@@ -1,3 +1,9 @@
+author: koma_koma_d
+#e34fm Will Larson の Infrastructure Engineering 、自分はインフラとかプラットフォームチームじゃないけど、開発者の生産性周りの話とか目を通しておくとよさそう https://t.co/qHBy678WwA
+
+url: https://infraeng.dev/
+https://twitter.com/koma_koma_d/status/1521116791111831552
+---------
 author: vicchow
 Efficiency: Managing Infrastructure Costs https://t.co/zXbQUKFHmZ via Pocket
 

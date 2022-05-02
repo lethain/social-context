@@ -1,68 +1,77 @@
-author: nuncapops
-Founding Uber SRE https://t.co/GR9Kc6wujx
+author: Metrist_io
+The story of starting SRE at @Uber by @Lethain https://t.co/D2Z5aNdIro
 
 url: https://lethain.com/founding-uber-sre/
-https://twitter.com/nuncapops/status/1520786241498882048
+https://twitter.com/Metrist_io/status/1521165404852277249
 ---------
-author: anthonydelage
-Great read on the challenges of scaling engineering organizations by @Lethain 
-https://t.co/LxWuMhsZNI
+author: mccv
+This, from @Lethain hits so hard https://t.co/SS6WwfRGld. I haven't had a lot of jobs by tech standards (5, in 25 years), but I've left two of those for reasons captured here. And I've also made some of the same management mistakes he describes.
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/mccv/status/1521158411148091392
+---------
+author: sarahjane_hale
+Mailbag: Resources for Engineering Directors by @Lethain 
+
+https://t.co/A19Ppkqyof
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/
+https://twitter.com/sarahjane_hale/status/1521135026800316417
+---------
+author: rseroter
+I've been guilty of bringing a "here's how I did things before" model to a new job. 
+
+I like @Lethain's post that explains how Uber's SRE team started, and how new leadership reimplemented old ideas w/o realizing the specific problems SRE solved there.
+
+https://t.co/8gcmddH3GR
 
 url: https://lethain.com/founding-uber-sre/
-https://twitter.com/anthonydelage/status/1520783541105135617
+https://twitter.com/rseroter/status/1521128374256619520
 ---------
-author: OneRightGuy
-https://t.co/j8wJP2Incl https://t.co/d9ffwUUnCj
+author: rposbo
+Founding Uber #SRE by @lethain
 
-url: https://lnkd.in/gTvUNuva
-url: https://lnkd.in/gNZmfe82
-https://twitter.com/OneRightGuy/status/1520755354203656192
+https://t.co/lVnzY2EFgW
+
+Really interesting insight into how it all happened and the challenges with growing the SRE capability at @UberEng
+
+(Also, check out @lethain's "An Elegant Puzzle" book about #engineering #management - love it!)
+
+url: https://buff.ly/38BzTfM
+https://twitter.com/rposbo/status/1521056406727766018
 ---------
-author: pinboard_pop
-Founding Uber SRE. | Irrational Exuberance https://t.co/A7BWSSXjyc
+author: mccricardo
+"Founding Uber SRE"
+
+#sre #reliabilityengineering #sitereliabilityengineering
+
+https://t.co/p55eHPjsEc https://t.co/2VstfJyXxA
+
+url: https://buff.ly/38BzTfM
+url: https://twitter.com/mccricardo/status/1521033009620733952/photo/1
+https://twitter.com/mccricardo/status/1521033009620733952
+---------
+author: AntoineAugusti
+Starting the SRE team at Uber
+https://t.co/o83rD6TI9C
+
+url: https://swll.to/IuKAsp
+https://twitter.com/AntoineAugusti/status/1521022931299708928
+---------
+author: clipsoflogic
+Founding Uber SRE. | Irrational Exuberance https://t.co/YN4k1EvDZA
+
+url: https://buff.ly/38BzTfM
+https://twitter.com/clipsoflogic/status/1521022431263170566
+---------
+author: kstewart
+Founding Uber SRE. | Irrational Exuberance https://t.co/0LCNB1LMkN
 
 url: https://lethain.com/founding-uber-sre/
-https://twitter.com/pinboard_pop/status/1520749908768272385
+https://twitter.com/kstewart/status/1520930560201216000
 ---------
-author: fakebaldur
-“Hard to work with. - Irrational Exuberance”
+author: geshan
+Founding Uber SRE. https://t.co/zpLa7rfdDO
 
-Not entirely sure I know what to think about this. Some of it feels familiar though. https://t.co/tG6yKkI3tT
-
-url: https://lethain.com/hard-to-work-with/?utm_source=labnotes.org
-https://twitter.com/fakebaldur/status/1520724450525782016
----------
-author: icymihn
-Founding Uber SRE https://t.co/VZxvpfEjq4 comm: https://t.co/3ByzMluAvF
-
-url: https://bit.ly/3s5kPhn
-url: https://bit.ly/3vY7PuX
-https://twitter.com/icymihn/status/1520619027990814721
----------
-author: woojae
-https://t.co/lO8gwCsMob
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/woojae/status/1520592806871322624
----------
-author: adam_dingman
-Such a fascinating read about the early SRE days at Uber. https://t.co/dSnpjXoL6t
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/adam_dingman/status/1520536547644301314
----------
-author: senolcolaks
-How did SRE evolved within Uber?
-
-Nice to see the challenges and the decisions..
-
-https://t.co/SLkyPqr67E
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/senolcolaks/status/1520448712815919104
----------
-author: mr_o_v_e_n
-Founding Uber SRE #SRE #Infrastructureorganization #Woody https://t.co/43OFQebdSr
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/mr_o_v_e_n/status/1520443954365407232
+url: https://buff.ly/3y9dmSt
+https://twitter.com/geshan/status/1520904653663358979
