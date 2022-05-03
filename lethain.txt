@@ -1,77 +1,76 @@
+author: lvlupeng
+Mailbag: Resources for Engineering Directors:
+https://t.co/Q3MYRBQNH4
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors
+https://twitter.com/lvlupeng/status/1521510467390394368
+---------
+author: TechLeadershipX
+Hard to work with.
+
+https://t.co/YRypnsZ3as
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/TechLeadershipX/status/1521494536895090688
+---------
+author: taxin_tt
+Founding Uber SRE. | Irrational Exuberance https://t.co/7JApe4AZhf
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/taxin_tt/status/1521481829156540419
+---------
+author: diskshima
+大きい会社でよく見ましたね、これ。
+
+多分、自分の経歴に
+「〜への移行を達成」
+とか書きたいんだろうな、と思っています。
+
+https://t.co/OCDz3QjZ1m
+
+url: https://lethain.com/grand-migration/
+https://twitter.com/diskshima/status/1521349992904294400
+---------
+author: diskshima
+Seen this many times especially in large companies.
+
+I always think they just want to add a line to their resume saying:
+"Successfully migrated the org to blah, blah, blah"
+
+https://t.co/OCDz3QjZ1m
+
+url: https://lethain.com/grand-migration/
+https://twitter.com/diskshima/status/1521349722820452354
+---------
+author: hasdid
+#TechLead #Dev #Automated | Resources for engineering directors https://t.co/MAdvG4mNPN
+
+url: https://techleaddigest.net/links/11798/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1521320391872061441
+---------
+author: kyo_nanba
+おもしろかった。
+
+Founding Uber SRE. | Irrational Exuberance https://t.co/SCYx1Crnkx
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/kyo_nanba/status/1521311892643360769
+---------
+author: katsuhisa__
+Founding Uber SRE. | Irrational Exuberance https://t.co/cZ6gA6PttJ
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/katsuhisa__/status/1521271992791408641
+---------
+author: ans4175
+Interesting take on https://t.co/3KjmOwVskk
+"the manager’s version of an individual contributor 'doing a rotation' onto a different team"
+
+url: https://lethain.com/interim-assignments/
+https://twitter.com/ans4175/status/1521246107640426498
+---------
 author: Metrist_io
 The story of starting SRE at @Uber by @Lethain https://t.co/D2Z5aNdIro
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/Metrist_io/status/1521165404852277249
----------
-author: mccv
-This, from @Lethain hits so hard https://t.co/SS6WwfRGld. I haven't had a lot of jobs by tech standards (5, in 25 years), but I've left two of those for reasons captured here. And I've also made some of the same management mistakes he describes.
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/mccv/status/1521158411148091392
----------
-author: sarahjane_hale
-Mailbag: Resources for Engineering Directors by @Lethain 
-
-https://t.co/A19Ppkqyof
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/
-https://twitter.com/sarahjane_hale/status/1521135026800316417
----------
-author: rseroter
-I've been guilty of bringing a "here's how I did things before" model to a new job. 
-
-I like @Lethain's post that explains how Uber's SRE team started, and how new leadership reimplemented old ideas w/o realizing the specific problems SRE solved there.
-
-https://t.co/8gcmddH3GR
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/rseroter/status/1521128374256619520
----------
-author: rposbo
-Founding Uber #SRE by @lethain
-
-https://t.co/lVnzY2EFgW
-
-Really interesting insight into how it all happened and the challenges with growing the SRE capability at @UberEng
-
-(Also, check out @lethain's "An Elegant Puzzle" book about #engineering #management - love it!)
-
-url: https://buff.ly/38BzTfM
-https://twitter.com/rposbo/status/1521056406727766018
----------
-author: mccricardo
-"Founding Uber SRE"
-
-#sre #reliabilityengineering #sitereliabilityengineering
-
-https://t.co/p55eHPjsEc https://t.co/2VstfJyXxA
-
-url: https://buff.ly/38BzTfM
-url: https://twitter.com/mccricardo/status/1521033009620733952/photo/1
-https://twitter.com/mccricardo/status/1521033009620733952
----------
-author: AntoineAugusti
-Starting the SRE team at Uber
-https://t.co/o83rD6TI9C
-
-url: https://swll.to/IuKAsp
-https://twitter.com/AntoineAugusti/status/1521022931299708928
----------
-author: clipsoflogic
-Founding Uber SRE. | Irrational Exuberance https://t.co/YN4k1EvDZA
-
-url: https://buff.ly/38BzTfM
-https://twitter.com/clipsoflogic/status/1521022431263170566
----------
-author: kstewart
-Founding Uber SRE. | Irrational Exuberance https://t.co/0LCNB1LMkN
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/kstewart/status/1520930560201216000
----------
-author: geshan
-Founding Uber SRE. https://t.co/zpLa7rfdDO
-
-url: https://buff.ly/3y9dmSt
-https://twitter.com/geshan/status/1520904653663358979

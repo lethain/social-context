@@ -1,3 +1,10 @@
+author: ryoo141
+https://t.co/A4hxBNE2yFとかhttps://t.co/HFJ0IbARkZとか、シンプルなデザインが流行りなの？
+
+url: http://ano.ee
+url: http://infraeng.dev
+https://twitter.com/ryoo141/status/1521373501227429888
+---------
 author: koma_koma_d
 #e34fm Will Larson の Infrastructure Engineering 、自分はインフラとかプラットフォームチームじゃないけど、開発者の生産性周りの話とか目を通しておくとよさそう https://t.co/qHBy678WwA
 
@@ -38,9 +45,3 @@ author: 0xc4tm
 
 url: https://infraeng.dev/smruti-patel/
 https://twitter.com/0xc4tm/status/1519771391687544835
----------
-author: eminetto
-https://t.co/ui0CCdjRW4
-
-url: https://buff.ly/3EPHy6d
-https://twitter.com/eminetto/status/1518945324932468737
