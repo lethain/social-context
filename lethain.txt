@@ -1,3 +1,17 @@
+author: mywaypress
+https://t.co/jJi9liSvbD
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/mywaypress/status/1521855185840132097
+---------
+author: rinks__g
+What would you focus &amp; optimise for -- pace, people, prestige, profit and learning &amp; how?
+
+https://t.co/PifajU1OIo
+
+url: https://lethain.com/forty-year-career/
+https://twitter.com/rinks__g/status/1521729637155434496
+---------
 author: lvlupeng
 Mailbag: Resources for Engineering Directors:
 https://t.co/Q3MYRBQNH4
@@ -61,16 +75,3 @@ Founding Uber SRE. | Irrational Exuberance https://t.co/cZ6gA6PttJ
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/katsuhisa__/status/1521271992791408641
----------
-author: ans4175
-Interesting take on https://t.co/3KjmOwVskk
-"the manager’s version of an individual contributor 'doing a rotation' onto a different team"
-
-url: https://lethain.com/interim-assignments/
-https://twitter.com/ans4175/status/1521246107640426498
----------
-author: Metrist_io
-The story of starting SRE at @Uber by @Lethain https://t.co/D2Z5aNdIro
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/Metrist_io/status/1521165404852277249
