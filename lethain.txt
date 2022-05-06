@@ -1,3 +1,59 @@
+author: cyber_protect
+https://t.co/kN1PeVHXxk
+
+url: https://lethain.com/metrics-for-the-unmeasurable/
+https://twitter.com/cyber_protect/status/1522494494351966209
+---------
+author: lmpeate
+@aotearoa_ben also shared this useful resource on “durably excellent teams” — at different stages of a company, showing what you need to do to get back on a path of innovation; https://t.co/iIkksJFzFF https://t.co/r4I3dJD9Iw
+
+url: https://lethain.com/durably-excellent-teams/
+url: https://twitter.com/lmpeate/status/1522432346091188224/photo/1
+https://twitter.com/lmpeate/status/1522432346091188224
+---------
+author: shotarok_rwal
+Liked "Your migration probably isn’t failing due to insufficient staffing." on Feedly: https://t.co/uncBJFT9ey
+
+url: https://ift.tt/Q4ROGjs
+https://twitter.com/shotarok_rwal/status/1522355800668348416
+---------
+author: _daffyduke_
+Founding Uber SRE. https://t.co/vmE8211nMS https://t.co/O3ZyWNXFbz
+
+url: https://ift.tt/kepiyrb
+url: https://twitter.com/_daffyduke_/status/1522320846034976768/photo/1
+https://twitter.com/_daffyduke_/status/1522320846034976768
+---------
+author: raulbarraltamay
+Your migration probably isn’t failing due to insufficient staffing.
+
+https://t.co/vZHwKIGvJ9
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/raulbarraltamay/status/1522285239774720000
+---------
+author: tao_nos
+https://t.co/15eh9g4RJh
+
+url: https://lethain.com/tech-lead-managers/
+https://twitter.com/tao_nos/status/1522278816055504907
+---------
+author: vaibhav_khulbe
+Instead, the only viable long-term bet on your career is to do work that matters, work that develops your and to steer towards companies that value genuine expertise.
+
+- Will Larson”
+
+https://t.co/vRLJThI7TA
+
+url: https://lethain.com/work-on-what-matters/
+https://twitter.com/vaibhav_khulbe/status/1522268470938767373
+---------
+author: zoeydraws
+Your migration probably isn’t failing due to insufficient staffing. | Irrational Exuberance https://t.co/Qp0fhXOw4b
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/zoeydraws/status/1522261368073703436
+---------
 author: mywaypress
 https://t.co/jJi9liSvbD
 
@@ -11,67 +67,3 @@ https://t.co/PifajU1OIo
 
 url: https://lethain.com/forty-year-career/
 https://twitter.com/rinks__g/status/1521729637155434496
----------
-author: lvlupeng
-Mailbag: Resources for Engineering Directors:
-https://t.co/Q3MYRBQNH4
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors
-https://twitter.com/lvlupeng/status/1521510467390394368
----------
-author: TechLeadershipX
-Hard to work with.
-
-https://t.co/YRypnsZ3as
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/TechLeadershipX/status/1521494536895090688
----------
-author: taxin_tt
-Founding Uber SRE. | Irrational Exuberance https://t.co/7JApe4AZhf
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/taxin_tt/status/1521481829156540419
----------
-author: diskshima
-大きい会社でよく見ましたね、これ。
-
-多分、自分の経歴に
-「〜への移行を達成」
-とか書きたいんだろうな、と思っています。
-
-https://t.co/OCDz3QjZ1m
-
-url: https://lethain.com/grand-migration/
-https://twitter.com/diskshima/status/1521349992904294400
----------
-author: diskshima
-Seen this many times especially in large companies.
-
-I always think they just want to add a line to their resume saying:
-"Successfully migrated the org to blah, blah, blah"
-
-https://t.co/OCDz3QjZ1m
-
-url: https://lethain.com/grand-migration/
-https://twitter.com/diskshima/status/1521349722820452354
----------
-author: hasdid
-#TechLead #Dev #Automated | Resources for engineering directors https://t.co/MAdvG4mNPN
-
-url: https://techleaddigest.net/links/11798/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
-https://twitter.com/hasdid/status/1521320391872061441
----------
-author: kyo_nanba
-おもしろかった。
-
-Founding Uber SRE. | Irrational Exuberance https://t.co/SCYx1Crnkx
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/kyo_nanba/status/1521311892643360769
----------
-author: katsuhisa__
-Founding Uber SRE. | Irrational Exuberance https://t.co/cZ6gA6PttJ
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/katsuhisa__/status/1521271992791408641

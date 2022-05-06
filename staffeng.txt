@@ -1,3 +1,9 @@
+author: franklinjavier
+@blvdmitry @shiota https://t.co/nnH3fSdoVB
+
+url: https://staffeng.com/stories
+https://twitter.com/franklinjavier/status/1522260695412314113
+---------
 author: CoralineAda
 Oh hey, a couple of my write-ups are referenced in the chapter on engineering strategy in "Staff Engineer: Leadership beyond the management track" by Will Larson!
 
