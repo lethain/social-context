@@ -25,9 +25,3 @@ This looks cool! We had Mahdi on https://t.co/N8hBnmpVbz last year; he’s aweso
 url: http://podcast.staffeng.com
 url: https://twitter.com/myusuf3/status/1521229514042396678
 https://twitter.com/davidnoelromas/status/1521331135841714176
----------
-author: antculver
-@JennyMaMTL It varies a lot by role, company, org, etc. but for a general sense of what it means to be a staff engineer I think https://t.co/SFWE93a5Vd is a great place to start
-
-url: http://staffeng.com
-https://twitter.com/antculver/status/1520119995271098368

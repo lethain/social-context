@@ -1,3 +1,35 @@
+author: wrumsby
+@danielbarrownz @kev_nz @DevNxt_NZ Plus this blog post: https://t.co/zcU7xjx0ff
+
+url: https://lethain.com/durably-excellent-teams/
+https://twitter.com/wrumsby/status/1522824741374947328
+---------
+author: angsuman
+Founding Uber SRE https://t.co/rKlFPRTBLE
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/angsuman/status/1522800168709816320
+---------
+author: angsuman
+Platforms change but cool URIs don't https://t.co/oGvCoDBKO5
+
+url: https://lethain.com/platforms-change-but-cool-uris-dont/
+https://twitter.com/angsuman/status/1522734207105384448
+---------
+author: beyang
+@jhscott @johncutlefish Great posts—do you know of any similar posts not for SRE/product but for SWE/dev? @Lethain has a good chapter on general systems thinking (https://t.co/8RatbpxDKg), but I haven't come across any attempts at seriously modeling dev processes.
+
+url: https://lethain.com/systems-thinking
+https://twitter.com/beyang/status/1522678846100705280
+---------
+author: aaudu
+@davidfowl reminds me of 👇🏾 from @Lethain 
+
+https://t.co/AGzk2qsr5V
+
+url: https://lethain.com/staff-engineer-archetypes/
+https://twitter.com/aaudu/status/1522670287723974656
+---------
 author: cyber_protect
 https://t.co/kN1PeVHXxk
 
@@ -31,39 +63,3 @@ https://t.co/vZHwKIGvJ9
 
 url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
 https://twitter.com/raulbarraltamay/status/1522285239774720000
----------
-author: tao_nos
-https://t.co/15eh9g4RJh
-
-url: https://lethain.com/tech-lead-managers/
-https://twitter.com/tao_nos/status/1522278816055504907
----------
-author: vaibhav_khulbe
-Instead, the only viable long-term bet on your career is to do work that matters, work that develops your and to steer towards companies that value genuine expertise.
-
-- Will Larson”
-
-https://t.co/vRLJThI7TA
-
-url: https://lethain.com/work-on-what-matters/
-https://twitter.com/vaibhav_khulbe/status/1522268470938767373
----------
-author: zoeydraws
-Your migration probably isn’t failing due to insufficient staffing. | Irrational Exuberance https://t.co/Qp0fhXOw4b
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/zoeydraws/status/1522261368073703436
----------
-author: mywaypress
-https://t.co/jJi9liSvbD
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/mywaypress/status/1521855185840132097
----------
-author: rinks__g
-What would you focus &amp; optimise for -- pace, people, prestige, profit and learning &amp; how?
-
-https://t.co/PifajU1OIo
-
-url: https://lethain.com/forty-year-career/
-https://twitter.com/rinks__g/status/1521729637155434496
