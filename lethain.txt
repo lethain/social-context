@@ -1,3 +1,30 @@
+author: kstewart
+Mailbag: Resources for Engineering Directors. | Irrational Exuberance https://t.co/jTe1h2JkSs
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/?utm_campaign=Level%20Up&utm_medium=email&utm_source=Revue%20newsletter
+https://twitter.com/kstewart/status/1523312216727953410
+---------
+author: inaki_crespo
+"Woody spent so much time on service provisioning that once someone was confused to learn that Woody was a person and not a Hipchat bot." 
+- @Lethain  in https://t.co/6pH4FNHuC8
+
+Genuine lol
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/inaki_crespo/status/1523173432346742784
+---------
+author: hkanji
+Setting up Uber’s site reliability engineering department https://t.co/EqO9vn9tzp
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/hkanji/status/1523052644205731840
+---------
+author: can
+Such an amazing post by @Lethain on how Uber built its SRE organization. Proud to have been part of that experience, and working alongside many of the fine folks. And agree with the ending sentiment. https://t.co/fhNrtJAtuR
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/can/status/1522991783101100032
+---------
 author: wrumsby
 @danielbarrownz @kev_nz @DevNxt_NZ Plus this blog post: https://t.co/zcU7xjx0ff
 
@@ -35,31 +62,3 @@ https://t.co/kN1PeVHXxk
 
 url: https://lethain.com/metrics-for-the-unmeasurable/
 https://twitter.com/cyber_protect/status/1522494494351966209
----------
-author: lmpeate
-@aotearoa_ben also shared this useful resource on “durably excellent teams” — at different stages of a company, showing what you need to do to get back on a path of innovation; https://t.co/iIkksJFzFF https://t.co/r4I3dJD9Iw
-
-url: https://lethain.com/durably-excellent-teams/
-url: https://twitter.com/lmpeate/status/1522432346091188224/photo/1
-https://twitter.com/lmpeate/status/1522432346091188224
----------
-author: shotarok_rwal
-Liked "Your migration probably isn’t failing due to insufficient staffing." on Feedly: https://t.co/uncBJFT9ey
-
-url: https://ift.tt/Q4ROGjs
-https://twitter.com/shotarok_rwal/status/1522355800668348416
----------
-author: _daffyduke_
-Founding Uber SRE. https://t.co/vmE8211nMS https://t.co/O3ZyWNXFbz
-
-url: https://ift.tt/kepiyrb
-url: https://twitter.com/_daffyduke_/status/1522320846034976768/photo/1
-https://twitter.com/_daffyduke_/status/1522320846034976768
----------
-author: raulbarraltamay
-Your migration probably isn’t failing due to insufficient staffing.
-
-https://t.co/vZHwKIGvJ9
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/raulbarraltamay/status/1522285239774720000

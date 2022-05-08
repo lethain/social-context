@@ -35,9 +35,3 @@ author: koma_koma_d
 
 url: https://infraeng.dev/
 https://twitter.com/koma_koma_d/status/1521116791111831552
----------
-author: vicchow
-Efficiency: Managing Infrastructure Costs https://t.co/zXbQUKFHmZ via Pocket
-
-url: https://ift.tt/hgZ5To7
-https://twitter.com/vicchow/status/1520500179413180418
