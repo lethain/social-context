@@ -1,3 +1,37 @@
+author: carlosontech
+https://t.co/tgrFVhs1p6
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/carlosontech/status/1523695138085634048
+---------
+author: martymatheny
+There are a lot of resources offering guidance for Engineering Managers, but less for Directors. @Lethain offers some advice and suggested reading on that topic in: “Resources for Engineering Directors”
+https://t.co/CvYpBejy5H
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/
+https://twitter.com/martymatheny/status/1523673823756705793
+---------
+author: zoeydraws
+https://t.co/z50MQh1PRN
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/zoeydraws/status/1523648381377122304
+---------
+author: kiyanwang
+"I consider blaming headcount a self-limiting belief because it’s the least helpful explanation for why something is going wrong; even if it’s partially true, there’s always a more interesting explanation to find"
+https://t.co/grWs1JphTw
+#DevOps
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/kiyanwang/status/1523568608374583300
+---------
+author: moewb
+"Your migration probably isn’t failing due to insufficient staffing."
+https://t.co/uYeKc8NDMm
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/moewb/status/1523450446249037824
+---------
 author: kstewart
 Mailbag: Resources for Engineering Directors. | Irrational Exuberance https://t.co/jTe1h2JkSs
 
@@ -30,35 +64,3 @@ author: wrumsby
 
 url: https://lethain.com/durably-excellent-teams/
 https://twitter.com/wrumsby/status/1522824741374947328
----------
-author: angsuman
-Founding Uber SRE https://t.co/rKlFPRTBLE
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/angsuman/status/1522800168709816320
----------
-author: angsuman
-Platforms change but cool URIs don't https://t.co/oGvCoDBKO5
-
-url: https://lethain.com/platforms-change-but-cool-uris-dont/
-https://twitter.com/angsuman/status/1522734207105384448
----------
-author: beyang
-@jhscott @johncutlefish Great posts—do you know of any similar posts not for SRE/product but for SWE/dev? @Lethain has a good chapter on general systems thinking (https://t.co/8RatbpxDKg), but I haven't come across any attempts at seriously modeling dev processes.
-
-url: https://lethain.com/systems-thinking
-https://twitter.com/beyang/status/1522678846100705280
----------
-author: aaudu
-@davidfowl reminds me of 👇🏾 from @Lethain 
-
-https://t.co/AGzk2qsr5V
-
-url: https://lethain.com/staff-engineer-archetypes/
-https://twitter.com/aaudu/status/1522670287723974656
----------
-author: cyber_protect
-https://t.co/kN1PeVHXxk
-
-url: https://lethain.com/metrics-for-the-unmeasurable/
-https://twitter.com/cyber_protect/status/1522494494351966209

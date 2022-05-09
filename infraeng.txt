@@ -29,9 +29,3 @@ https://t.co/A4hxBNE2yFとかhttps://t.co/HFJ0IbARkZとか、シンプルなデ�
 url: http://ano.ee
 url: http://infraeng.dev
 https://twitter.com/ryoo141/status/1521373501227429888
----------
-author: koma_koma_d
-#e34fm Will Larson の Infrastructure Engineering 、自分はインフラとかプラットフォームチームじゃないけど、開発者の生産性周りの話とか目を通しておくとよさそう https://t.co/qHBy678WwA
-
-url: https://infraeng.dev/
-https://twitter.com/koma_koma_d/status/1521116791111831552
