@@ -1,3 +1,17 @@
+author: umang
+Stories about being in the trenches in tech rarely portray reality. This is one of those rare ones: https://t.co/leuC9uV8Ot. 
+
+Four things that stood out for me:
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/umang/status/1523868741796212736
+---------
+author: hasdid
+#TechLead #Dev #Automated | Your migration probably isn’t failing due to insufficient staffing https://t.co/LRThp6IerE
+
+url: https://techleaddigest.net/links/11888/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1523842002948927490
+---------
 author: carlosontech
 https://t.co/tgrFVhs1p6
 
@@ -52,15 +66,3 @@ Setting up Uber’s site reliability engineering department https://t.co/EqO9vn9
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/hkanji/status/1523052644205731840
----------
-author: can
-Such an amazing post by @Lethain on how Uber built its SRE organization. Proud to have been part of that experience, and working alongside many of the fine folks. And agree with the ending sentiment. https://t.co/fhNrtJAtuR
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/can/status/1522991783101100032
----------
-author: wrumsby
-@danielbarrownz @kev_nz @DevNxt_NZ Plus this blog post: https://t.co/zcU7xjx0ff
-
-url: https://lethain.com/durably-excellent-teams/
-https://twitter.com/wrumsby/status/1522824741374947328
