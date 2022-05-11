@@ -1,3 +1,9 @@
+author: mywaypress
+https://t.co/2s4uVFqUd2
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/mywaypress/status/1524391143106138114
+---------
 author: umang
 Stories about being in the trenches in tech rarely portray reality. This is one of those rare ones: https://t.co/leuC9uV8Ot. 
 
@@ -60,9 +66,3 @@ Genuine lol
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/inaki_crespo/status/1523173432346742784
----------
-author: hkanji
-Setting up Uber’s site reliability engineering department https://t.co/EqO9vn9tzp
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/hkanji/status/1523052644205731840
