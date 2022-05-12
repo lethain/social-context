@@ -1,3 +1,9 @@
+author: agnozingdays
+https://t.co/2HVKiAekQn
+
+url: https://staffeng.com/book
+https://twitter.com/agnozingdays/status/1524531272290549760
+---------
 author: franklinjavier
 @thaleshpL Da uma navegada no blog do Will Larson pra ter uma ideia. Tem vários pontos de vistas na seção de "stories" (entrevistas) https://t.co/K56PhMWOpE e aqui tb https://t.co/fcxc13k9Gg
 
@@ -43,11 +49,3 @@ author: franklinjavier
 
 url: https://staffeng.com/stories
 https://twitter.com/franklinjavier/status/1522260695412314113
----------
-author: CoralineAda
-Oh hey, a couple of my write-ups are referenced in the chapter on engineering strategy in "Staff Engineer: Leadership beyond the management track" by Will Larson!
-
-https://t.co/mqTEkLnc8D
-
-url: https://staffeng.com/guides/engineering-strategy
-https://twitter.com/CoralineAda/status/1521954964674912256

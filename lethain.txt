@@ -1,3 +1,30 @@
+author: agnozingdays
+https://t.co/im199AU3P1
+
+url: https://lethain.com/elegant-puzzle/
+https://twitter.com/agnozingdays/status/1524531352439517185
+---------
+author: bdarfler
+This is the bread and butter. Find ways to "act as if" before you are in the role.
+
+Find gaps and fill them in (https://t.co/vmFY79nydq)
+
+I also like @Lethain 's "Model, document, share" framework (https://t.co/q1ln23Jdgc) https://t.co/erxFvlFfxK
+
+url: https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/
+url: https://lethain.com//model-document-share/
+url: https://twitter.com/mipsytipsy/status/1523609962441707520
+https://twitter.com/bdarfler/status/1524500945689845761
+---------
+author: JoeKarlsson1
+tl;dr: "the first question to answer is whether it’s a valuable use of organizational time to make your current infrastructure spend more efficient."
+
+Via: Should You Prioritize Infrastructure Costs? https://t.co/oFiA3QUcR9 https://t.co/a7Tq8eqF6z
+
+url: https://buff.ly/3DT9ANH
+url: https://twitter.com/JoeKarlsson1/status/1524440208757952517/photo/1
+https://twitter.com/JoeKarlsson1/status/1524440208757952517
+---------
 author: mywaypress
 https://t.co/2s4uVFqUd2
 
@@ -44,25 +71,3 @@ https://t.co/grWs1JphTw
 
 url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
 https://twitter.com/kiyanwang/status/1523568608374583300
----------
-author: moewb
-"Your migration probably isn’t failing due to insufficient staffing."
-https://t.co/uYeKc8NDMm
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/moewb/status/1523450446249037824
----------
-author: kstewart
-Mailbag: Resources for Engineering Directors. | Irrational Exuberance https://t.co/jTe1h2JkSs
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/?utm_campaign=Level%20Up&utm_medium=email&utm_source=Revue%20newsletter
-https://twitter.com/kstewart/status/1523312216727953410
----------
-author: inaki_crespo
-"Woody spent so much time on service provisioning that once someone was confused to learn that Woody was a person and not a Hipchat bot." 
-- @Lethain  in https://t.co/6pH4FNHuC8
-
-Genuine lol
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/inaki_crespo/status/1523173432346742784
