@@ -1,3 +1,15 @@
+author: GeoffreyWiseman
+@lethain On https://t.co/Ce79hnOJ7l is “hots” supposed to be “host”?
+
+url: https://lethain.com/trunk-and-branches/
+https://twitter.com/GeoffreyWiseman/status/1525135720804978693
+---------
+author: emmanuel_siegel
+Moving the finish line. #engineering https://t.co/DC9uYliZ1p
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/emmanuel_siegel/status/1524932942824460288
+---------
 author: agnozingdays
 https://t.co/im199AU3P1
 
@@ -57,17 +69,3 @@ https://t.co/CvYpBejy5H
 
 url: https://lethain.com/mail-bag-resources-for-engineering-directors/
 https://twitter.com/martymatheny/status/1523673823756705793
----------
-author: zoeydraws
-https://t.co/z50MQh1PRN
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/zoeydraws/status/1523648381377122304
----------
-author: kiyanwang
-"I consider blaming headcount a self-limiting belief because it’s the least helpful explanation for why something is going wrong; even if it’s partially true, there’s always a more interesting explanation to find"
-https://t.co/grWs1JphTw
-#DevOps
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/kiyanwang/status/1523568608374583300
