@@ -1,3 +1,24 @@
+author: diskshima
+&gt; executives are evaluated based on their perceived outcomes rather than their actual outcomes
+
+なるほどー。大手の証券会社にいたときに何が起きていたのか、ようやく理解できました。
+
+https://t.co/pXW24O0g6y
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/diskshima/status/1525266123650142208
+---------
+author: diskshima
+&gt; executives are evaluated based on their perceived outcomes rather than their actual outcomes
+
+Wow. Explains much of what I saw at a large investment bank.
+Makes so much sense...
+
+https://t.co/pXW24O0g6y
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/diskshima/status/1525265972361592833
+---------
 author: GeoffreyWiseman
 @lethain On https://t.co/Ce79hnOJ7l is “hots” supposed to be “host”?
 
@@ -56,16 +77,3 @@ author: hasdid
 
 url: https://techleaddigest.net/links/11888/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
 https://twitter.com/hasdid/status/1523842002948927490
----------
-author: carlosontech
-https://t.co/tgrFVhs1p6
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/carlosontech/status/1523695138085634048
----------
-author: martymatheny
-There are a lot of resources offering guidance for Engineering Managers, but less for Directors. @Lethain offers some advice and suggested reading on that topic in: “Resources for Engineering Directors”
-https://t.co/CvYpBejy5H
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/
-https://twitter.com/martymatheny/status/1523673823756705793
