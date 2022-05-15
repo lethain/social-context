@@ -1,3 +1,11 @@
+author: tonyszko
+@DebugPrivilege The more senior you are in the role the more it is your job, even if you are not in the mgmt 
+
+This books has a good description of career path in tech - https://t.co/uTe9ipPJXT
+
+url: https://staffeng.com/book
+https://twitter.com/tonyszko/status/1525745990925488134
+---------
 author: agnozingdays
 https://t.co/2HVKiAekQn
 
@@ -33,13 +41,3 @@ https://t.co/qXSywb7poV
 
 url: https://staffeng.com/book
 https://twitter.com/Eladleev/status/1523407373766823936
----------
-author: PiotrKafel
-For those who want to know more about different archetypes of Staff Engineers I recommend reading 
-
-https://t.co/ltIYbByO7t
-
-For me it was eyes opening.
-
-url: https://staffeng.com/guides/staff-archetypes
-https://twitter.com/PiotrKafel/status/1523208984072802304
