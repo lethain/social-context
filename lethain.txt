@@ -1,3 +1,29 @@
+author: amcrouch
+"Resources for Engineering Directors" ... https://t.co/CeAgN3hTjV
+
+url: https://lethain.com/mail-bag-resources-for-engineering-directors/?utm_medium=email
+https://twitter.com/amcrouch/status/1526180413344911361
+---------
+author: arnaudporterie
+"Well-run companies don’t tolerate perception straying too far from reality, so their executives are generally accountable to their real outcomes. Poorly run companies [...] operate in a realm of shared delusion." https://t.co/4LKn8vsmKT
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/arnaudporterie/status/1526111732254621700
+---------
+author: c0anidam
+Great write-up by @Lethain on funding Uber's SRE. An interesting read and reflection of how organization structure change over time with scaling up a company
+
+https://t.co/HbWACtOiGO
+
+url: https://lethain.com/founding-uber-sre/
+https://twitter.com/c0anidam/status/1526083397072089088
+---------
+author: kiyanwang
+Stripe's model of product-led, developer-centric growth https://t.co/k6sB9Dftpr
+
+url: https://lethain.com/stripe-product-led-developer-centric-growth/
+https://twitter.com/kiyanwang/status/1525901814775808013
+---------
 author: diskshima
 &gt; executives are evaluated based on their perceived outcomes rather than their actual outcomes
 
@@ -48,32 +74,3 @@ url: https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/
 url: https://lethain.com//model-document-share/
 url: https://twitter.com/mipsytipsy/status/1523609962441707520
 https://twitter.com/bdarfler/status/1524500945689845761
----------
-author: JoeKarlsson1
-tl;dr: "the first question to answer is whether it’s a valuable use of organizational time to make your current infrastructure spend more efficient."
-
-Via: Should You Prioritize Infrastructure Costs? https://t.co/oFiA3QUcR9 https://t.co/a7Tq8eqF6z
-
-url: https://buff.ly/3DT9ANH
-url: https://twitter.com/JoeKarlsson1/status/1524440208757952517/photo/1
-https://twitter.com/JoeKarlsson1/status/1524440208757952517
----------
-author: mywaypress
-https://t.co/2s4uVFqUd2
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/mywaypress/status/1524391143106138114
----------
-author: umang
-Stories about being in the trenches in tech rarely portray reality. This is one of those rare ones: https://t.co/leuC9uV8Ot. 
-
-Four things that stood out for me:
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/umang/status/1523868741796212736
----------
-author: hasdid
-#TechLead #Dev #Automated | Your migration probably isn’t failing due to insufficient staffing https://t.co/LRThp6IerE
-
-url: https://techleaddigest.net/links/11888/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
-https://twitter.com/hasdid/status/1523842002948927490
