@@ -1,3 +1,15 @@
+author: hasdid
+#TechLead #Dev #Automated | Stripe's model of product-led, developer-centric growth https://t.co/czeNZVQZxN
+
+url: https://techleaddigest.net/links/11827/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1526590111189815297
+---------
+author: chenettejason
+Hard to work with. | Irrational Exuberance https://t.co/p9rmDJTS0x
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/chenettejason/status/1526491469594476544
+---------
 author: amcrouch
 "Resources for Engineering Directors" ... https://t.co/CeAgN3hTjV
 
@@ -56,21 +68,3 @@ Moving the finish line. #engineering https://t.co/DC9uYliZ1p
 
 url: https://lethain.com/moving-the-finish-line/
 https://twitter.com/emmanuel_siegel/status/1524932942824460288
----------
-author: agnozingdays
-https://t.co/im199AU3P1
-
-url: https://lethain.com/elegant-puzzle/
-https://twitter.com/agnozingdays/status/1524531352439517185
----------
-author: bdarfler
-This is the bread and butter. Find ways to "act as if" before you are in the role.
-
-Find gaps and fill them in (https://t.co/vmFY79nydq)
-
-I also like @Lethain 's "Model, document, share" framework (https://t.co/q1ln23Jdgc) https://t.co/erxFvlFfxK
-
-url: https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/
-url: https://lethain.com//model-document-share/
-url: https://twitter.com/mipsytipsy/status/1523609962441707520
-https://twitter.com/bdarfler/status/1524500945689845761
