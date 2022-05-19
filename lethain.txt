@@ -1,3 +1,21 @@
+author: B1rav
+Nice blog post outlining resources for Engineering Directors
+
+https://t.co/ah4JE0Chrc
+
+url: https://bit.ly/3LPeJJP
+https://twitter.com/B1rav/status/1527220015207960576
+---------
+author: sallamar
+Yes to this.
+
+"Well-run companies don’t tolerate perception straying too far from reality ... Poorly run companies often punish executives who are too familiar with reality". 
+
+https://t.co/7fvm1OpJvB by @Lethain
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/sallamar/status/1527101373514272768
+---------
 author: hasdid
 #TechLead #Dev #Automated | Stripe's model of product-led, developer-centric growth https://t.co/czeNZVQZxN
 
@@ -56,15 +74,3 @@ https://t.co/pXW24O0g6y
 
 url: https://lethain.com/moving-the-finish-line/
 https://twitter.com/diskshima/status/1525265972361592833
----------
-author: GeoffreyWiseman
-@lethain On https://t.co/Ce79hnOJ7l is “hots” supposed to be “host”?
-
-url: https://lethain.com/trunk-and-branches/
-https://twitter.com/GeoffreyWiseman/status/1525135720804978693
----------
-author: emmanuel_siegel
-Moving the finish line. #engineering https://t.co/DC9uYliZ1p
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/emmanuel_siegel/status/1524932942824460288

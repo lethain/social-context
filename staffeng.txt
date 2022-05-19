@@ -1,3 +1,23 @@
+author: gfrancischelli
+@uminukanata @armand1m https://t.co/ORPAuclW2T
+
+url: https://staffeng.com/guides/what-do-staff-engineers-actually-do
+https://twitter.com/gfrancischelli/status/1527295136144969729
+---------
+author: DavidKnepprath
+@mknepprath You should join my book club and read https://t.co/r90atzvS8w!
+
+It has a section about “how to get to staff engineer” which is not as relevant, but still interesting to learn about how different orgs do things.
+
+url: https://staffeng.com/book
+https://twitter.com/DavidKnepprath/status/1527109730962837506
+---------
+author: jfhbrook
+and it's been a struggle figuring out how to communicate what I'm /actually/ looking for, but today I remembered that there's a book about what staff engineering actually /is/ https://t.co/z3VtqizSoK and that I can point to archetypes
+
+url: https://staffeng.com/book
+https://twitter.com/jfhbrook/status/1527107487790469122
+---------
 author: twoscomplement
 This book:
 Staff Engineer: Leadership beyond the management track, by Will Larson @Lethain 
@@ -15,9 +35,3 @@ This books has a good description of career path in tech - https://t.co/uTe9ipPJ
 
 url: https://staffeng.com/book
 https://twitter.com/tonyszko/status/1525745990925488134
----------
-author: agnozingdays
-https://t.co/2HVKiAekQn
-
-url: https://staffeng.com/book
-https://twitter.com/agnozingdays/status/1524531272290549760

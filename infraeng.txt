@@ -9,19 +9,3 @@ author: alexanderchopan
 
 url: https://buff.ly/3v9X609
 https://twitter.com/alexanderchopan/status/1525890993869955075
----------
-author: MatthewClarke47
-It was a great experience to talk to @Lethain  about what it's like to be an Infrastructure Engineer at Spotify.
-
-Really looking forward to this book!
-
-https://t.co/pKr3lNCiei
-
-url: https://infraeng.dev/matthew-clarke/
-https://twitter.com/MatthewClarke47/status/1524757485193768960
----------
-author: agnozingdays
-https://t.co/XlyEP8OoT8
-
-url: https://infraeng.dev/
-https://twitter.com/agnozingdays/status/1524531144934723584
