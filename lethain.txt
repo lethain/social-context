@@ -1,3 +1,21 @@
+author: jayholler
+https://t.co/5aTIFTfYir
+
+url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
+https://twitter.com/jayholler/status/1527620163507470337
+---------
+author: mizzao
+Here's an interesting type of management failure:
+
+The performance issue of one person gets re-cast into a collaboration issue of a different person.
+
+Anyone experienced this before?
+
+https://t.co/y4QTfY4yfb
+
+url: https://lethain.com/hard-to-work-with/
+https://twitter.com/mizzao/status/1527515353294770182
+---------
 author: B1rav
 Nice blog post outlining resources for Engineering Directors
 
@@ -53,24 +71,3 @@ Stripe's model of product-led, developer-centric growth https://t.co/k6sB9Dftpr
 
 url: https://lethain.com/stripe-product-led-developer-centric-growth/
 https://twitter.com/kiyanwang/status/1525901814775808013
----------
-author: diskshima
-&gt; executives are evaluated based on their perceived outcomes rather than their actual outcomes
-
-なるほどー。大手の証券会社にいたときに何が起きていたのか、ようやく理解できました。
-
-https://t.co/pXW24O0g6y
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/diskshima/status/1525266123650142208
----------
-author: diskshima
-&gt; executives are evaluated based on their perceived outcomes rather than their actual outcomes
-
-Wow. Explains much of what I saw at a large investment bank.
-Makes so much sense...
-
-https://t.co/pXW24O0g6y
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/diskshima/status/1525265972361592833
