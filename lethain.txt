@@ -1,3 +1,9 @@
+author: darren_coral
+Notes on The Timeless Way of Building (2018) https://t.co/90h5i22VjM #Notes #Timeless
+
+url: https://lethain.com/timeless-way-of-building/
+https://twitter.com/darren_coral/status/1527907155629813762
+---------
 author: jayholler
 https://t.co/5aTIFTfYir
 
@@ -65,9 +71,3 @@ https://t.co/HbWACtOiGO
 
 url: https://lethain.com/founding-uber-sre/
 https://twitter.com/c0anidam/status/1526083397072089088
----------
-author: kiyanwang
-Stripe's model of product-led, developer-centric growth https://t.co/k6sB9Dftpr
-
-url: https://lethain.com/stripe-product-led-developer-centric-growth/
-https://twitter.com/kiyanwang/status/1525901814775808013
