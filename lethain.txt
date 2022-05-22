@@ -1,3 +1,21 @@
+author: NickSwekosky
+@HarvinderSolan2 When I was an engineer, I memorized this article the night before my last round of engineering interviews at Amazon.
+
+I crushed this interview round, especially the Systems interview, and received an offer
+
+Start with this article, then read case studies
+
+https://t.co/rbA0up75or
+
+url: https://lethain.com/introduction-to-architecting-systems-for-scale/
+https://twitter.com/NickSwekosky/status/1528325261955153920
+---------
+author: jayholler
+https://t.co/QM1Ed24Z4K
+
+url: https://lethain.com/moving-the-finish-line/
+https://twitter.com/jayholler/status/1528106177669758979
+---------
 author: darren_coral
 Notes on The Timeless Way of Building (2018) https://t.co/90h5i22VjM #Notes #Timeless
 
@@ -57,17 +75,3 @@ author: amcrouch
 
 url: https://lethain.com/mail-bag-resources-for-engineering-directors/?utm_medium=email
 https://twitter.com/amcrouch/status/1526180413344911361
----------
-author: arnaudporterie
-"Well-run companies don’t tolerate perception straying too far from reality, so their executives are generally accountable to their real outcomes. Poorly run companies [...] operate in a realm of shared delusion." https://t.co/4LKn8vsmKT
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/arnaudporterie/status/1526111732254621700
----------
-author: c0anidam
-Great write-up by @Lethain on funding Uber's SRE. An interesting read and reflection of how organization structure change over time with scaling up a company
-
-https://t.co/HbWACtOiGO
-
-url: https://lethain.com/founding-uber-sre/
-https://twitter.com/c0anidam/status/1526083397072089088
