@@ -1,3 +1,22 @@
+author: pivotservices
+“Much more than early startups, enterprises care about comprehensiveness of features.” | @Lethain on Stripe's product-led, developer-centric growth model https://t.co/YAutz9DekT https://t.co/UWwETHpPfN
+
+url: https://buff.ly/3v1cZYc
+url: https://twitter.com/pivotservices/status/1528772550230147076/photo/1
+https://twitter.com/pivotservices/status/1528772550230147076
+---------
+author: vuyo_soci
+https://t.co/u8smg26hDx
+
+url: https://lethain.com/managing-technical-quality/
+https://twitter.com/vuyo_soci/status/1528584541891338240
+---------
+author: kiyanwang
+“You can move back and forth between manager and individual contributor work…That said, I do find it less common for folks to continue rotating across these roles…as there is a level of specialization that is difficult to attain while rotating” https://t.co/l4io9EiGSp
+
+url: https://lethain.com/mail-bag-did-i-become-manager-too-soon/
+https://twitter.com/kiyanwang/status/1528435898177794051
+---------
 author: NickSwekosky
 @HarvinderSolan2 When I was an engineer, I memorized this article the night before my last round of engineering interviews at Amazon.
 
@@ -57,21 +76,3 @@ https://t.co/7fvm1OpJvB by @Lethain
 
 url: https://lethain.com/moving-the-finish-line/
 https://twitter.com/sallamar/status/1527101373514272768
----------
-author: hasdid
-#TechLead #Dev #Automated | Stripe's model of product-led, developer-centric growth https://t.co/czeNZVQZxN
-
-url: https://techleaddigest.net/links/11827/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
-https://twitter.com/hasdid/status/1526590111189815297
----------
-author: chenettejason
-Hard to work with. | Irrational Exuberance https://t.co/p9rmDJTS0x
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/chenettejason/status/1526491469594476544
----------
-author: amcrouch
-"Resources for Engineering Directors" ... https://t.co/CeAgN3hTjV
-
-url: https://lethain.com/mail-bag-resources-for-engineering-directors/?utm_medium=email
-https://twitter.com/amcrouch/status/1526180413344911361

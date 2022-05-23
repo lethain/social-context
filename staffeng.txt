@@ -23,13 +23,3 @@ and it's been a struggle figuring out how to communicate what I'm /actually/ loo
 
 url: https://staffeng.com/book
 https://twitter.com/jfhbrook/status/1527107487790469122
----------
-author: twoscomplement
-This book:
-Staff Engineer: Leadership beyond the management track, by Will Larson @Lethain 
-https://t.co/YwlT4173LU
-
-Good perspective-broadening reading material (as was Larson's previous book, An Elegant Puzzle).
-
-url: https://staffeng.com/book
-https://twitter.com/twoscomplement/status/1525941816805101568

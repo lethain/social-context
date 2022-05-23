@@ -10,9 +10,3 @@ Infrastructure Engineering https://t.co/wIfH3ihkR2
 
 url: https://infraeng.dev/posts/
 https://twitter.com/dpinya/status/1526639254323052546
----------
-author: alexanderchopan
-“Developer Experience (DX) is a buzzword at this point, so naturally everyone is co-opting it to represent their particular view of the world, making it extra confusing for anyone that just wants a straight answer.” #web2 #web3 #ux https://t.co/g3Ohr3SCOy
-
-url: https://buff.ly/3v9X609
-https://twitter.com/alexanderchopan/status/1525890993869955075
