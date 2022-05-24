@@ -1,3 +1,23 @@
+author: ksylor
+@FrancisShanahan @Cutlerish Same, tbqh. 
+
+But seriously, these seem similar to the staff Eng archetypes from @Lethain ‘s book &amp; guide on https://t.co/MzanN5VhIE but ever so slightly different https://t.co/rAebuF1M2B
+
+url: http://staffeng.com
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/ksylor/status/1529067424393347072
+---------
+author: otaviojava
+@anamauad @Lethain 3/4 This book mentions the Staff archetypes.
+Archetype term helps label these frequent variants of Staff-plus engineers.
+Where there is a tech-lead as archetypes, but not as a rule:
+https://t.co/HUwTZ9C0Bn
+
+Yes, Staff-plus will have different skills from others.
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/otaviojava/status/1529052072468959232
+---------
 author: giacomocosimato
 Reading everything I can find on the subject. Currently https://t.co/zeYBkHv90T
 

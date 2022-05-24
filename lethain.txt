@@ -1,3 +1,57 @@
+author: GilbertCDelgado
+Top story: Write five, then synthesize: good engineering strategy is boring. | Irrational Exuberance https://t.co/kBNdGF5dpd, see more https://t.co/zNC5bABJ03
+
+url: https://lethain.com/good-engineering-strategy-is-boring/
+url: https://tweetedtimes.com/v/11849?s=tnp
+https://twitter.com/GilbertCDelgado/status/1529102538296987648
+---------
+author: stefanofago
+https://t.co/0Si2cFFGYm https://t.co/zyr0eKTSXk
+
+url: https://lnkd.in/eCEWpiKW
+url: https://lnkd.in/egCbyfe5
+https://twitter.com/stefanofago/status/1529096923919040513
+---------
+author: methodsandtools
+A good engineering strategy is boring https://t.co/tRDEEaz25n #programming #coding #softwaredevelopment #softwareengineering #webdev #webdevelopment #frontenddev #FrontEndDevelopment #SoftwareEngineer #softwaredeveloper #javascript #angular #nodejs #dotnet #java #python #csharp https://t.co/FjlEpCmYjB
+
+url: https://lethain.com/good-engineering-strategy-is-boring/
+url: https://twitter.com/methodsandtools/status/1529079446245883905/photo/1
+https://twitter.com/methodsandtools/status/1529079446245883905
+---------
+author: AgeOfProduct
+"Stripe's model of product-led, developer-centric growth" https://t.co/pW3fcPS2cS @Lethain https://t.co/o1I0VkHSNh
+
+url: https://buff.ly/3v1cZYc
+url: https://twitter.com/AgeOfProduct/status/1529075246892032000/photo/1
+https://twitter.com/AgeOfProduct/status/1529075246892032000
+---------
+author: maxkatz
+Stripe's model of product-led, developer-centric growth. | Irrational Exuberance https://t.co/yCfKdYODGb
+
+url: https://buff.ly/3v1cZYc
+https://twitter.com/maxkatz/status/1529058885172084742
+---------
+author: hasdid
+#TechLead #Dev #Automated | Did I become a manager too soon? https://t.co/P9xepwJ37I
+
+url: https://techleaddigest.net/links/11958/redirect?subscriber_id=504bf8ab-cc8d-4e8c-9cc8-e6bae4809bdc&utm_medium=email
+https://twitter.com/hasdid/status/1528945634019090433
+---------
+author: cssradar
+Platforms change but cool URIs don't. https://t.co/udmxHnKwXs
+
+url: https://buff.ly/3vIXHX4
+https://twitter.com/cssradar/status/1528940351498641410
+---------
+author: pokgak73
+We've been building a tool based on Slack for this and it's really great. Since it's rollout we've reduced our toil tasks significantly and we now have more time for feature projects.
+
+https://t.co/byqt6MpcKq
+
+url: https://lethain.com/service-cookbooks/
+https://twitter.com/pokgak73/status/1528916975342088192
+---------
 author: pivotservices
 “Much more than early startups, enterprises care about comprehensiveness of features.” | @Lethain on Stripe's product-led, developer-centric growth model https://t.co/YAutz9DekT https://t.co/UWwETHpPfN
 
@@ -10,69 +64,3 @@ https://t.co/u8smg26hDx
 
 url: https://lethain.com/managing-technical-quality/
 https://twitter.com/vuyo_soci/status/1528584541891338240
----------
-author: kiyanwang
-“You can move back and forth between manager and individual contributor work…That said, I do find it less common for folks to continue rotating across these roles…as there is a level of specialization that is difficult to attain while rotating” https://t.co/l4io9EiGSp
-
-url: https://lethain.com/mail-bag-did-i-become-manager-too-soon/
-https://twitter.com/kiyanwang/status/1528435898177794051
----------
-author: NickSwekosky
-@HarvinderSolan2 When I was an engineer, I memorized this article the night before my last round of engineering interviews at Amazon.
-
-I crushed this interview round, especially the Systems interview, and received an offer
-
-Start with this article, then read case studies
-
-https://t.co/rbA0up75or
-
-url: https://lethain.com/introduction-to-architecting-systems-for-scale/
-https://twitter.com/NickSwekosky/status/1528325261955153920
----------
-author: jayholler
-https://t.co/QM1Ed24Z4K
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/jayholler/status/1528106177669758979
----------
-author: darren_coral
-Notes on The Timeless Way of Building (2018) https://t.co/90h5i22VjM #Notes #Timeless
-
-url: https://lethain.com/timeless-way-of-building/
-https://twitter.com/darren_coral/status/1527907155629813762
----------
-author: jayholler
-https://t.co/5aTIFTfYir
-
-url: https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/
-https://twitter.com/jayholler/status/1527620163507470337
----------
-author: mizzao
-Here's an interesting type of management failure:
-
-The performance issue of one person gets re-cast into a collaboration issue of a different person.
-
-Anyone experienced this before?
-
-https://t.co/y4QTfY4yfb
-
-url: https://lethain.com/hard-to-work-with/
-https://twitter.com/mizzao/status/1527515353294770182
----------
-author: B1rav
-Nice blog post outlining resources for Engineering Directors
-
-https://t.co/ah4JE0Chrc
-
-url: https://bit.ly/3LPeJJP
-https://twitter.com/B1rav/status/1527220015207960576
----------
-author: sallamar
-Yes to this.
-
-"Well-run companies don’t tolerate perception straying too far from reality ... Poorly run companies often punish executives who are too familiar with reality". 
-
-https://t.co/7fvm1OpJvB by @Lethain
-
-url: https://lethain.com/moving-the-finish-line/
-https://twitter.com/sallamar/status/1527101373514272768
