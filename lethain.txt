@@ -1,3 +1,21 @@
+author: people_of_the_s
+Platforms change but cool URIs don't. | Irrational Exuberance https://t.co/sPvObqHxq5
+
+url: https://lethain.com/platforms-change-but-cool-uris-dont/
+https://twitter.com/people_of_the_s/status/1529491510248755201
+---------
+author: ohbarye
+ブログサービスやプラットフォームは変わったり終わったりするもの。書き続けるならコンテンツへのインタフェース (URL) を書き手が所有するほかない / "If you plan to write across decades, you simply must own the interfaces to your content." / “Platforms change …” https://t.co/Iz8yHRML81
+
+url: https://htn.to/9bR5ifFSmZ
+https://twitter.com/ohbarye/status/1529473272529965059
+---------
+author: mywaypress
+https://t.co/Ajb3N9Bf6m
+
+url: https://lethain.com/plagarism-idea-theft-writing-online/
+https://twitter.com/mywaypress/status/1529470093142409216
+---------
 author: GilbertCDelgado
 Top story: Write five, then synthesize: good engineering strategy is boring. | Irrational Exuberance https://t.co/kBNdGF5dpd, see more https://t.co/zNC5bABJ03
 
@@ -43,24 +61,3 @@ Platforms change but cool URIs don't. https://t.co/udmxHnKwXs
 
 url: https://buff.ly/3vIXHX4
 https://twitter.com/cssradar/status/1528940351498641410
----------
-author: pokgak73
-We've been building a tool based on Slack for this and it's really great. Since it's rollout we've reduced our toil tasks significantly and we now have more time for feature projects.
-
-https://t.co/byqt6MpcKq
-
-url: https://lethain.com/service-cookbooks/
-https://twitter.com/pokgak73/status/1528916975342088192
----------
-author: pivotservices
-“Much more than early startups, enterprises care about comprehensiveness of features.” | @Lethain on Stripe's product-led, developer-centric growth model https://t.co/YAutz9DekT https://t.co/UWwETHpPfN
-
-url: https://buff.ly/3v1cZYc
-url: https://twitter.com/pivotservices/status/1528772550230147076/photo/1
-https://twitter.com/pivotservices/status/1528772550230147076
----------
-author: vuyo_soci
-https://t.co/u8smg26hDx
-
-url: https://lethain.com/managing-technical-quality/
-https://twitter.com/vuyo_soci/status/1528584541891338240
