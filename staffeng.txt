@@ -1,3 +1,9 @@
+author: pavsaund
+Looks like a lot of the same content is available at https://t.co/g4gY2ZnmGA.
+
+url: https://staffeng.com
+https://twitter.com/pavsaund/status/1529573115524796424
+---------
 author: brunopadz
 Mais infos sobre os arquétipos. Vale a leitura. :)
 https://t.co/5oK6R7X8Ab
@@ -43,23 +49,3 @@ Reading everything I can find on the subject. Currently https://t.co/zeYBkHv90T
 
 url: https://staffeng.com/guides/
 https://twitter.com/giacomocosimato/status/1527912403282927616
----------
-author: gfrancischelli
-@uminukanata @armand1m https://t.co/ORPAuclW2T
-
-url: https://staffeng.com/guides/what-do-staff-engineers-actually-do
-https://twitter.com/gfrancischelli/status/1527295136144969729
----------
-author: DavidKnepprath
-@mknepprath You should join my book club and read https://t.co/r90atzvS8w!
-
-It has a section about “how to get to staff engineer” which is not as relevant, but still interesting to learn about how different orgs do things.
-
-url: https://staffeng.com/book
-https://twitter.com/DavidKnepprath/status/1527109730962837506
----------
-author: jfhbrook
-and it's been a struggle figuring out how to communicate what I'm /actually/ looking for, but today I remembered that there's a book about what staff engineering actually /is/ https://t.co/z3VtqizSoK and that I can point to archetypes
-
-url: https://staffeng.com/book
-https://twitter.com/jfhbrook/status/1527107487790469122
