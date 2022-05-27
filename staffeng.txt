@@ -1,3 +1,31 @@
+author: andatki
+Last Fall I wrote up how I might apply work prioritization and focus concepts from the Staff Eng book (by @Lethain) to my work as a Staff Engineer working with Ruby on Rails. I keep recommending this book! LMKWYT
+Book: https://t.co/al9XrgKqgH
+Post: https://t.co/XmC2lhHBNm
+
+url: https://staffeng.com
+url: https://andyatkinson.com/blog/2021/10/15/work-on-what-matters
+https://twitter.com/andatki/status/1530228065959391233
+---------
+author: yuniruyuni
+https://t.co/TeCL0BefQZ アーキタイプこれだけあったのか。確かに。。。
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/yuniruyuni/status/1530138644421324800
+---------
+author: yuniruyuni
+https://t.co/p5zdUqbqbx そういえばTechLeadの定義この辺が本当に正確なものが書いてある。あまり知られてなさすぎてちょっと認識合わないよね。ここでいうStaffEngineerの一種ですよん。しばしばCTOとdirect reportの関係だよん
+
+url: https://staffeng.com/
+https://twitter.com/yuniruyuni/status/1530136964761935872
+---------
+author: Neyoh13
+@regislutter @smlpth Pas tout à fait 😛, il y a plusieurs types de staff+. Ici tu trouveras les différents archétypes: https://t.co/0MRcl5fJgh
+Par ailleurs je recommande le bouquin complet 😉
+
+url: https://staffeng.com/guides/staff-archetypes
+https://twitter.com/Neyoh13/status/1529885397525925893
+---------
 author: pavsaund
 Looks like a lot of the same content is available at https://t.co/g4gY2ZnmGA.
 
